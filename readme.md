@@ -1,6 +1,6 @@
 # FGDC Geospatial Transportation Subcommittee
 
-**Our Last Meeting**
+**Our Last Meeting**   
 was on February 25th at 2:30 PM Eastern Time. Our next meeting is scheduled for April. Audio access is possible by calling (515) 606-5187, 286074#.
 
 Please take a moment to review the agenda  and comment if you wish to add or expand on a topic. All are welcome. Please contact derald.dudley@dot.gov to be added to the invitation.
@@ -20,9 +20,9 @@ Each quarterly GTS meeting is dedicated to heightening awareness among the geosp
 
 Committee members, partners, and friends may join meetings via the GTS webinar site.
 Audio access is possible by calling (515) 739-1285, 286074#.
-
-**2020 Minutes**
-[2020.02.25 GTS Meeting Minutes](https://drive.google.com/drive/folders/1_Lslm_7EnqofbzecsddOYMSNBODY1Qhu)
+ 
+**2020 Minutes**    
+[2020.02.25 GTS Meeting Minutes](https://docs.google.com/document/d/1XZMEt-K7MmBNaO3TIROTenlhVnNY6mCXiwIpzfnexQE)
 
 **2019 Minutes**
 
