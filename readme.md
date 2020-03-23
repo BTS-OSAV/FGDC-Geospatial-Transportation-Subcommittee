@@ -14,8 +14,7 @@ Identify, evaluate, and resolve geospatial transportation data problems
 Promote best practices
 Cultivate a greater understanding of American transportation.
 
-**Meetings**
-
+**Meetings**   
 Each quarterly GTS meeting is dedicated to heightening awareness among the geospatial-transportation community. Meetings are an opportunity for members and partners to highlight their activities, review the progress of GTS working groups, and discuss GTS initiatives.
 
 Committee members, partners, and friends may join meetings via the GTS webinar site.
@@ -26,13 +25,13 @@ Audio access is possible by calling (515) 739-1285, 286074#.
 
 **2019 Minutes**
 
-2019.02.06 Minutes
+[2019.02.06 Minutes] (https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/2019-February-FGDC-GTS-Minutes.pdf)
 
-2019.02.06 Presentation: Meeting Agenda
+[2019.02.06 Presentation: Meeting Agenda] (https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/FGDC-GTS-Quarterly-Mtg_02062019_v2.pdf)
 
-2019.04.25 GIS-T Special Interest Group
+[2019.04.25 GIS-T Special Interest Group] (https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/06/2019_april_gis-t_sig.pdf)
 
-**Past Minutes**
+[**Past Minutes**] (https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/2019-meetings-of-the-transportation-subcommittee/)
 
 **Working Groups**
 
