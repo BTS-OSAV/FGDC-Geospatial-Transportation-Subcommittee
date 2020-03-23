@@ -1,6 +1,6 @@
 ## US Road Specification Working Group  
 
-**The Road Specification Working Group is chaired by Tom Roff. The committee develops transportation standards to improve data quality, 
+**The US Road Specification Working Group is chaired by Tom Roff (FHWA). The committee develops transportation standards to improve data quality, 
 accessibility, exchange, and interoperability of US roads data.** 
 
 **Our Next Meeting**   
