@@ -1,6 +1,6 @@
 ## Road Specification Working Group Meeting Minutes   
 
-**Road Specification Working Group is chaired by Tom Roff. The committee develops transportation standards to improve data quality, 
+**The Road Specification Working Group is chaired by Tom Roff. The committee develops transportation standards to improve data quality, 
 accessibility, exchange, and interoperability of US roads data.** 
 
 **Our Next Meeting**   
@@ -10,5 +10,5 @@ Please take a moment to review the agenda and comment if you wish to add or exp
 
 **2020 Meetings**   
 
-  
+April 20th Meeting Minutes will be placed here.    
 
