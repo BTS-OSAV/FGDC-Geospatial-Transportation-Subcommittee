@@ -5,7 +5,7 @@
 **Our Last Meeting**   
 was on February 25th at 2:30 PM Eastern Time. Our next meeting is scheduled for April. Audio access is possible by calling (515) 606-5187, 286074#.
 
-Please take a moment to review the agenda  and comment if you wish to add or expand on a topic. All are welcome. Please contact derald.dudley@dot.gov to be added to the invitation.
+Please take a moment to review the [agenda](https://docs.google.com/document/d/1ti4CfurvPi_wFoi281ywiDz9n0AYsrmR/edit) and comment if you wish to add or expand on a topic. All are welcome. Please contact derald.dudley@dot.gov to be added to the invitation.
 
 **GTS Goals**
 
