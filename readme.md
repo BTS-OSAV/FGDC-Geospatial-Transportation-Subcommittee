@@ -23,13 +23,10 @@ Audio access is possible by calling (515) 739-1285, 286074#.
 **2020 Minutes**    
 [2020.02.25 GTS Meeting Minutes](https://docs.google.com/document/d/1XZMEt-K7MmBNaO3TIROTenlhVnNY6mCXiwIpzfnexQE)
 
-**2019 Minutes**
-
-[2019.02.06 Minutes](https://docs.google.com/document/d/1XWPKGA7W-Vy_YTFU4ga3rzDOb8DpsPL405bWnMPtcW4/edit)
-
-[2019.02.06 Presentation: PowerPoint](https://drive.google.com/drive/folders/1Z9rGgAb50fJgZaSNCnGN58OdJ5CcdrdG)
-
-[2019.04.25 GIS-T Special Interest Group](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/06/2019_april_gis-t_sig.pdf)
+**2019 Minutes**   
+[2019.02.06 Minutes](https://docs.google.com/document/d/1XWPKGA7W-Vy_YTFU4ga3rzDOb8DpsPL405bWnMPtcW4/edit)   
+[2019.02.06 Presentation: FGDC TSC Quarterly Mtg](https://drive.google.com/drive/folders/1Z9rGgAb50fJgZaSNCnGN58OdJ5CcdrdG)   
+[2019.04.25 GIS-T Special Interest Group](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/06/2019_april_gis-t_sig.pdf)   
 
 [**Past Minutes**](https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/2019-meetings-of-the-transportation-subcommittee/)
 
