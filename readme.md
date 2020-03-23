@@ -7,12 +7,12 @@ Please take a moment to review the agenda  and comment if you wish to add or ex
 
 **GTS Goals**
 
--Enhancing the transportation theme of the national spatial data infrastructure
--Facilitate partnerships and coordinate efforts among the geospatial transportation community
--Ease data access and improve data quality through the development data standards
--Identify, evaluate, and resolve geospatial transportation data problems
--Promote best practices
--Cultivate a greater understanding of American transportation.
+*Enhancing the transportation theme of the national spatial data infrastructure   
++Facilitate partnerships and coordinate efforts among the geospatial transportation community   
+-Ease data access and improve data quality through the development data standards   
+-Identify, evaluate, and resolve geospatial transportation data problems   
+-Promote best practices   
+-Cultivate a greater understanding of American transportation   
 
 **Meetings**   
 Each quarterly GTS meeting is dedicated to heightening awareness among the geospatial-transportation community. Meetings are an opportunity for members and partners to highlight their activities, review the progress of GTS working groups, and discuss GTS initiatives.
