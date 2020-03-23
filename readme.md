@@ -25,7 +25,7 @@ Audio access is possible by calling (515) 739-1285, 286074#.
 
 **2019 Minutes**
 
-[2019.02.06 Minutes](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/2019-February-FGDC-GTS-Minutes.pdf)
+[2019.02.06 Minutes](https://docs.google.com/document/d/1XWPKGA7W-Vy_YTFU4ga3rzDOb8DpsPL405bWnMPtcW4/edit)
 
 [2019.02.06 Presentation: Meeting Agenda](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/FGDC-GTS-Quarterly-Mtg_02062019_v2.pdf)
 
