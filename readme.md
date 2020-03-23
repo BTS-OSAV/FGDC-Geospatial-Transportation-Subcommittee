@@ -1,4 +1,6 @@
-# FGDC Geospatial Transportation Subcommittee
+## FGDC Geospatial Transportation Subcommittee
+
+**The Geospatial Transportation Subcommittee (GTC) enhances the Transportation Theme of the National Spatial Data Infrastructure by facilitating partnerships, coordinating efforts, and heightening awareness among the geospatial-transportation community. The committee promotes best practices and develops transportation standards to improve data quality, accessibility, exchange, and interoperability. Ultimately, the TSC cultivates a greater understanding of the American transportation system by providing accurate and timely information to American decision makers.**   
 
 **Our Last Meeting**   
 was on February 25th at 2:30 PM Eastern Time. Our next meeting is scheduled for April. Audio access is possible by calling (515) 606-5187, 286074#.
