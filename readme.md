@@ -25,28 +25,21 @@ Audio access is possible by calling (515) 739-1285, 286074#.
 
 **2019 Minutes**
 
-[2019.02.06 Minutes] (https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/2019-February-FGDC-GTS-Minutes.pdf)
+[2019.02.06 Minutes](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/2019-February-FGDC-GTS-Minutes.pdf)
 
-[2019.02.06 Presentation: Meeting Agenda] (https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/FGDC-GTS-Quarterly-Mtg_02062019_v2.pdf)
+[2019.02.06 Presentation: Meeting Agenda](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/FGDC-GTS-Quarterly-Mtg_02062019_v2.pdf)
 
-[2019.04.25 GIS-T Special Interest Group] (https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/06/2019_april_gis-t_sig.pdf)
+[2019.04.25 GIS-T Special Interest Group](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/06/2019_april_gis-t_sig.pdf)
 
-[**Past Minutes**] (https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/2019-meetings-of-the-transportation-subcommittee/)
+[**Past Minutes**](https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/2019-meetings-of-the-transportation-subcommittee/)
 
 **Working Groups**
-
-Geospatial Transportation Subcommittee at GIS-T
-
-Federal Land Roads
-
-Passenger Travel
-
-Intercity Bus
-
-United States Road Specification
-
-Work Zone Data 
-
-US Road Specification
+Geospatial Transportation Subcommittee at GIS-T   
+Federal Land Roads   
+Passenger Travel   
+Intercity Bus   
+United States Road Specification   
+Work Zone Data   
+US Road Specification   
 
 
