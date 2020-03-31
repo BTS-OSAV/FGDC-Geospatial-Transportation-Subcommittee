@@ -39,7 +39,7 @@ Intercity Bus
 [US Road Specification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/Road%20Specifications)      
 Road Classification  
 Federal Trails Data   
-Work Zone Data   
+[Work Zone Data](https://github.com/usdot-jpo-ode/jpo-wzdx)   
   
 
 
