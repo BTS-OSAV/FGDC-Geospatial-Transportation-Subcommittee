@@ -39,18 +39,15 @@ ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization
 1. Welcome / Introductions   
 
 2. Staffing Updates   
-
 2.1. Dennis Nicholas - New Vice Chair of Transportation Subcommittee   
 2.2. Leslie Haig - Geospatial Analyst and FGDC Facilitation    
 
 3. Working Group Updates
-
 3.1. USRS WG - U.S. Road Specification WG (Tom Roff)   
 Tom is the new Chair for US Road Specification working group
 First vetting Charter with Census and Interior before putting it before the group
 After charter acceptance he will restart WG
 Aligning with other efforts
-
 3.2. FCWG - Functional Class Working Group (Elaine Guidero)   
 3.2.1. FCWG Draft Charter (renaming it RCWG, Road Class Working
 Group   
@@ -58,7 +55,6 @@ Group
 3.2.3. Subgroup under USRS WG   
 3.2.4. Concerns   
 3.2.5. Membership? Email Elaine or Tom to join the group   
-
 3.3. WZDWG - Work Zone Data Exchange Working Group (Derald Dudley)   
 3.3.1. Purpose    
 &nbsp;&nbsp; ● Enables infrastructure owners and operators (IOOs) to make harmonized
@@ -92,7 +88,6 @@ Grant Status
 3.3.3. How to participate
 Email avdx@dot.gov   
 3.3.4. WZD WG Resources on GitHub   
-
 3.4. FLRWG - Federal Lands Roads Working Group (Gita Urban-Mathieux)   
 3.4.1. Mission: Building a consolidated data set containing an inventory
 of roads on Federal Lands to be used to support mapping, emergency
@@ -102,14 +97,12 @@ Working Group which is under the FGDC Transportation Subcommittee.
 3.4.2. Link to past meeting notes and presentations   
 3.4.3. Next meeting March 12, 2020 at 1:30 pm ET. Contact
 burbanma@usgs.gov to be added to the invitation.   
-
 3.5. FTWG - Federal Trails Working Group (Kerry Shakarjian)   
 3.5.1. Federal Trails Standard   
 3.5.2. For more info contact Kerry_Shakarjian@nps.gov   
 3.5.3. How to get Standard adopted as “Authoritative”
 Already adopted by FGDC? - Derald can help put this before the FGDC
 Next FTWG meeting is Wednesday, March, 18th at 2PM MST   
-
 3.6. ICBWG - Intercity Bus Working Group (Derald Dudley)   
 3.6.1. Purpose   
 Collect, compile, publish and archive scheduled intercity bus service
