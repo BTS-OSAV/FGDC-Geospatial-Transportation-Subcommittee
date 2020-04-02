@@ -44,7 +44,7 @@ Next meeting May xx, 2020 at 1 pm ET. Contact burbanma@usgs.gov to be added to t
 3.4 WZDWG - Work Zone Data Exchange Working Group (Derald Dudley)   
 3.5 FTWG - Federal Trails Working Group (Kerry Shakarjian)   
 3.6 Passenger Travel   
-* ICBWG - Intercity Bus Working Group (Derald Dudley)   
+&nbsp;&nbsp; * ICBWG - Intercity Bus Working Group (Derald Dudley)   
 &nbsp;&nbsp; * NTM - The National Transit Map (Derald Dudley)   
 
 4. Charters and Implementation Plans   
