@@ -58,8 +58,8 @@ Group
 3.2.3. Subgroup under USRS WG   
 3.2.4. Concerns   
 3.2.5. Membership? Email Elaine or Tom to join the group   
-3.3. WZDWG - Work Zone Data Exchange Working Group (Derald Dudley)   
 
+3.3. WZDWG - Work Zone Data Exchange Working Group (Derald Dudley)   
 3.3.1. Purpose
 ● Enables infrastructure owners and operators (IOOs) to make harmonized
 work zone data available for third party use (used by State/county DOTs,
