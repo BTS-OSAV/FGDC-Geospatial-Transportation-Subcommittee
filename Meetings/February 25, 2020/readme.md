@@ -133,7 +133,8 @@ generation a routine part of ticketing system updates.
 ● Development of potential applications for ICBA data
 ● Identification of potential additional layers for inclusion
 ● Identify a permanent method for maintaining the ICBA   
-3.6.3. For more information email Derald.Dudley@dot.gov   
+3.6.3. For more information email Derald.Dudley@dot.gov
+
 
 4. Charters (Purpose, Objectives, and Activities)   
 4.1. The Geospatial Data Act requires annual reports to the FGDC.   
