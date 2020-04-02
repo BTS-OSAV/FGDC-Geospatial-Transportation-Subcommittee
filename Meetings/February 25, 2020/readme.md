@@ -123,18 +123,17 @@ Fred Fravel, an ICB Atlas Member, submitted a research proposal to the
 National Cooperative Highway Research Program
 The proposal was approved as NCHRP Project 8-133 with a $600K
 budget
-Activities include, but not limited to…
-● Development of standards for inclusion
-● Identification of the universe of firms that should be included
-● Outreach to elicit participation.
-● Activities to promote the need to develop and supply GTFS data
-● Identify and work with ticketing firms to make GTFS data
-generation a routine part of ticketing system updates.
-● Development of potential applications for ICBA data
-● Identification of potential additional layers for inclusion
-● Identify a permanent method for maintaining the ICBA   
-3.6.3. For more information email Derald.Dudley@dot.gov
-
+Activities include, but not limited to…   
+● Development of standards for inclusion   
+● Identification of the universe of firms that should be included   
+● Outreach to elicit participation   
+● Activities to promote the need to develop and supply GTFS data   
+● Identify and work with ticketing firms to make GTFS data   
+generation a routine part of ticketing system updates   
+● Development of potential applications for ICBA data   
+● Identification of potential additional layers for inclusion   
+● Identify a permanent method for maintaining the ICBA      
+3.6.3. For more information email Derald.Dudley@dot.gov   
 
 4. Charters (Purpose, Objectives, and Activities)   
 4.1. The Geospatial Data Act requires annual reports to the FGDC.   
