@@ -40,24 +40,24 @@ ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization
 
 2. Staffing Updates   
 
- - 2.1. Dennis Nicholas - New Vice Chair of Transportation Subcommittee   
- - 2.2. Leslie Haig - Geospatial Analyst and FGDC Facilitation    
+2.1. Dennis Nicholas - New Vice Chair of Transportation Subcommittee   
+2.2. Leslie Haig - Geospatial Analyst and FGDC Facilitation    
 
 3. Working Group Updates
 
- - 3.1. USRS WG - U.S. Road Specification WG (Tom Roff)   
+3.1. USRS WG - U.S. Road Specification WG (Tom Roff)   
 Tom is the new Chair for US Road Specification working group
 First vetting Charter with Census and Interior before putting it before the group
 After charter acceptance he will restart WG
 Aligning with other efforts
 
- - 3.2. FCWG - Functional Class Working Group (Elaine Guidero)   
- - 3.2.1. FCWG Draft Charter (renaming it RCWG, Road Class Working
+3.2. FCWG - Functional Class Working Group (Elaine Guidero)   
+3.2.1. FCWG Draft Charter (renaming it RCWG, Road Class Working
 Group   
- - 3.2.2. Functional Class Spreadsheet   
- - 3.2.3. Subgroup under USRS WG   
- - 3.2.4. Concerns   
- - 3.2.5. Membership? Email Elaine or Tom to join the group   
+3.2.2. Functional Class Spreadsheet   
+3.2.3. Subgroup under USRS WG   
+3.2.4. Concerns   
+3.2.5. Membership? Email Elaine or Tom to join the group   
 
 3.3. WZDWG - Work Zone Data Exchange Working Group (Derald Dudley)   
 3.3.1. Purpose    
