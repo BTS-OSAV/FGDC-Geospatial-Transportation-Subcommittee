@@ -88,7 +88,7 @@ practices related to the use of the WZD specification and
 provides technical assistance to both data producers and
 data consumers   
 GIS-T Block
-Grant Status   
+Grant Status     
 3.3.3. How to participate
 Email avdx@dot.gov   
 3.3.4. WZD WG Resources on GitHub   
