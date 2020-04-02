@@ -8,7 +8,7 @@ Conference Call: (515) 606-5187, 286074#
 Previous Minutes from 02/25/2020: https://docs.google.com/document/d/1XZMEt-K7MmBNaO3TIROTenlhVnNY6mCXiwIpzfnexQE/edit
 
 Please Sign In:    
-ID     Name     Organization   
+ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization   
 1   Derald Dudley   OST-Research/BTS/OSAV   
 2   Leslie Haig   Spatial Front, Inc.   
 3
