@@ -124,14 +124,14 @@ National Cooperative Highway Research Program
 The proposal was approved as NCHRP Project 8-133 with a $600K
 budget
 Activities include, but not limited to…   
-● Development of standards for inclusion   
-● Identification of the universe of firms that should be included   
-● Outreach to elicit participation   
-● Activities to promote the need to develop and supply GTFS data   
-● Identify and work with ticketing firms to make GTFS data generation a routine part of ticketing system updates   
-● Development of potential applications for ICBA data   
-● Identification of potential additional layers for inclusion   
-● Identify a permanent method for maintaining the ICBA      
+&nbsp;&nbsp; ● Development of standards for inclusion   
+&nbsp;&nbsp; ● Identification of the universe of firms that should be included   
+&nbsp;&nbsp; ● Outreach to elicit participation   
+&nbsp;&nbsp; ● Activities to promote the need to develop and supply GTFS data   
+&nbsp;&nbsp; ● Identify and work with ticketing firms to make GTFS data generation a routine part of ticketing system updates   
+&nbsp;&nbsp; ● Development of potential applications for ICBA data   
+&nbsp;&nbsp; ● Identification of potential additional layers for inclusion   
+&nbsp;&nbsp; ● Identify a permanent method for maintaining the ICBA      
 3.6.3. For more information email Derald.Dudley@dot.gov   
 
 4. Charters (Purpose, Objectives, and Activities)   
