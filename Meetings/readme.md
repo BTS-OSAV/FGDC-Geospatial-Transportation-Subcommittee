@@ -1,10 +1,10 @@
-# Geospatial Transportation Subcommittee (GTS) Meeting Minutes
+## Geospatial Transportation Subcommittee (GTS) Meeting Minutes
 
 February 7, 2020 Meeting]()
-
-
-
-## Other Working Group Meeting Minutes   
+    
+    
+       
+### Other Working Group Meeting Minutes   
       
 [Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
 Passenger Travel   
