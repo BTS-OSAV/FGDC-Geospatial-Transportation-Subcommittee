@@ -23,24 +23,24 @@ Committee members, partners, and friends may join meetings via the GTS webinar s
 Audio access is possible by calling (515) 739-1285, 286074#.
  
 **2020 Minutes**    
-[April-May 2020 GTS Meeting Agenda](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/April%2030,%202020/readme.md)   
-[2020.02.25 GTS Meeting Minutes](https://docs.google.com/document/d/1XZMEt-K7MmBNaO3TIROTenlhVnNY6mCXiwIpzfnexQE)
+&nbsp; &nbsp; [April-May 2020 GTS Meeting Agenda](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/April%2030,%202020/readme.md)   
+&nbsp; &nbsp; [2020.02.25 GTS Meeting Minutes](https://docs.google.com/document/d/1XZMEt-K7MmBNaO3TIROTenlhVnNY6mCXiwIpzfnexQE)
 
 **2019 Minutes**   
-[2019.02.06 Minutes](https://docs.google.com/document/d/1XWPKGA7W-Vy_YTFU4ga3rzDOb8DpsPL405bWnMPtcW4/edit)   
-[2019.02.06 Presentation: FGDC TSC Quarterly Mtg v2 Ron Vaughn](https://drive.google.com/drive/folders/1Z9rGgAb50fJgZaSNCnGN58OdJ5CcdrdG)   
-[2019.04.25 GIS-T Special Interest Group](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/06/2019_april_gis-t_sig.pdf)   
+&nbsp; &nbsp; [2019.02.06 Minutes](https://docs.google.com/document/d/1XWPKGA7W-Vy_YTFU4ga3rzDOb8DpsPL405bWnMPtcW4/edit)   
+&nbsp; &nbsp; [2019.02.06 Presentation: FGDC TSC Quarterly Mtg v2 Ron Vaughn](https://drive.google.com/drive/folders/1Z9rGgAb50fJgZaSNCnGN58OdJ5CcdrdG)   
+&nbsp; &nbsp; [2019.04.25 GIS-T Special Interest Group](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/06/2019_april_gis-t_sig.pdf)   
 
 [**Past Minutes**](https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/2019-meetings-of-the-transportation-subcommittee/)
 
 **Working Groups under the Geospatial Transportation Subcommittee**       
-[Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
-Passenger Travel   
-Intercity Bus   
-[US Road Specification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/Road%20Specifications)      
-Road Classification  
-Federal Trails Data   
-[Work Zone Data](https://github.com/usdot-jpo-ode/jpo-wzdx)   
+&nbsp; &nbsp; [Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
+&nbsp; &nbsp; Passenger Travel   
+&nbsp; &nbsp; Intercity Bus   
+&nbsp; &nbsp; [US Road Specification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-&nbsp; &nbsp; Subcommittee/tree/master/Meetings/Road%20Specifications)      
+&nbsp; &nbsp; Road Classification  
+&nbsp; &nbsp; Federal Trails Data   
+&nbsp; &nbsp; [Work Zone Data](https://github.com/usdot-jpo-ode/jpo-wzdx)   
   
 
 
