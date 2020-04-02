@@ -37,7 +37,7 @@ Audio access is possible by calling (515) 739-1285, 286074#.
 &nbsp; &nbsp; [Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
 &nbsp; &nbsp; Passenger Travel   
 &nbsp; &nbsp; Intercity Bus   
-&nbsp; &nbsp; [US Road Specification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-&nbsp; &nbsp; Subcommittee/tree/master/Meetings/Road%20Specifications)      
+&nbsp; &nbsp; [US Road Specification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/Road%20Specifications)       
 &nbsp; &nbsp; Road Classification  
 &nbsp; &nbsp; Federal Trails Data   
 &nbsp; &nbsp; [Work Zone Data](https://github.com/usdot-jpo-ode/jpo-wzdx)   
