@@ -128,8 +128,7 @@ Activities include, but not limited to…
 ● Identification of the universe of firms that should be included   
 ● Outreach to elicit participation   
 ● Activities to promote the need to develop and supply GTFS data   
-● Identify and work with ticketing firms to make GTFS data   
-generation a routine part of ticketing system updates   
+● Identify and work with ticketing firms to make GTFS data generation a routine part of ticketing system updates   
 ● Development of potential applications for ICBA data   
 ● Identification of potential additional layers for inclusion   
 ● Identify a permanent method for maintaining the ICBA      
