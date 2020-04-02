@@ -1,5 +1,5 @@
 
-## USDOT / FGDC Geospatial Transportation Subcommittee Agenda
+## USDOT / FGDC Geospatial Transportation Subcommittee Meeting Minutes
 ## Meeting on February 25, 2020
 
 Connecting:
