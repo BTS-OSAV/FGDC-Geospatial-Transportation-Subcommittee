@@ -30,30 +30,26 @@ ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization
 19
 20   
 
-Welcome to GTS / Introductions    
-Staffing Updates   
-Working Group Updates   
+1. Welcome to GTS / Introductions   
 
-FLRWG - Federal Lands Roads Working Group (Gita Urban-Mathieux, Tom Roff)
+2. Staffing Updates   
+
+3. Working Group Updates   
+3.1 FLRWG - Federal Lands Roads Working Group (Gita Urban-Mathieux, Tom Roff)
 Highlight discussion of March 10, 2020 meeting.
 Link to past meeting notes and presentations
 Next meeting May xx, 2020 at 1 pm ET. Contact burbanma@usgs.gov to be added to the invitation.   
+3.2 USRS WG - Road Specification WG (Tom Roff) - Charter update   
+3.3 FCWG - Functional Class Working Group (Elaine Guidero)   
+3.4 WZDWG - Work Zone Data Exchange Working Group (Derald Dudley)   
+3.5 FTWG - Federal Trails Working Group (Kerry Shakarjian)   
+3.6 Passenger Travel   
+&nbsp;&nbsp; ICBWG - Intercity Bus Working Group (Derald Dudley)   
+&nbsp;&nbsp; NTM - The National Transit Map (Derald Dudley)   
 
-USRS WG - Road Specification WG (Tom Roff) - Charter update   
+4. Charters and Implementation Plans   
 
-FCWG - Functional Class Working Group (Elaine Guidero)   
+5. Open Discussion   
 
-WZDWG - Work Zone Data Exchange Working Group (Derald Dudley)   
-
-FTWG - Federal Trails Working Group (Kerry Shakarjian)   
-
-Passenger Travel   
-ICBWG - Intercity Bus Working Group (Derald Dudley)   
-NTM - The National Transit Map (Derald Dudley)   
-
-Charters and Implementation Plans   
-
-Open Discussion   
-
-Close and Thank you   
+6. Close and Thank you   
 
