@@ -60,9 +60,8 @@ Group
 3.2.5. Membership? Email Elaine or Tom to join the group   
 
 3.3. WZDWG - Work Zone Data Exchange Working Group (Derald Dudley)   
-3.3.1. Purpose   
-  
-&nbsp; &nbsp; ● Enables infrastructure owners and operators (IOOs) to make harmonized
+3.3.1. Purpose    
+&nbsp;&nbsp; ● Enables infrastructure owners and operators (IOOs) to make harmonized
 work zone data available for third party use (used by State/county DOTs,
 WAZE, Google maps)   
 &nbsp;&nbsp; ● Make travel on public roads safer and more efficient through ubiquitous
