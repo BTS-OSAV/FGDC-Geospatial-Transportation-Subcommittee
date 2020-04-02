@@ -74,12 +74,12 @@ Adopted a relational data model to foster scalability and to define relationship
 Adopted geoJSON as the required format to ease the exchange of spatial data.   
 Version 3   
 3 subgroups established to advance the specification   
-1) Specification Update Subgroup - defines content, data
+&nbsp;&nbsp; 1) Specification Update Subgroup - defines content, data
 classes, and relationships   
-2) Worker Presence Subgroup - Studying and recommending
+&nbsp;&nbsp; 2) Worker Presence Subgroup - Studying and recommending
 the best methods for showing workers on vehicle navigation
 systems.   
-3) Technical Assistance Subgroup - Establishes best
+&nbsp;&nbsp; 3) Technical Assistance Subgroup - Establishes best
 practices related to the use of the WZD specification and
 provides technical assistance to both data producers and
 data consumers   
