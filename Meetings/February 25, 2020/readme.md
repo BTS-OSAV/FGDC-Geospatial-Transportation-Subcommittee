@@ -6,7 +6,7 @@ Connecting:
 Web Conference: https://connectdot.connectsolutions.com/fgdc_tsc
 Conference Call: (515) 606-5187, 286074#
 Please Sign In:
-ID Name Organization Email
+ID Name Organization Email   
 1 Derald Dudley OST-Research/BTS/OSAV    
 2 Leslie Haig Spatial Front, Inc.    
 3 Chuck Matthys USGS/NGTOC    
@@ -170,7 +170,7 @@ USGS has access to USPS post office location data
 6.5. Subcommittee Update Emails, to keep participants informed of progress
 and/or a TedTalk on a relevant topic   
 
-7. Open Discussion
+7. Open Discussion   
 7.1. What is the process for adding layers to the NSDI?   
 7.2. Per Joe, there are 14 functional classifications in the FHWA.   
 
