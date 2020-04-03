@@ -103,7 +103,7 @@ Transportation conference in Boulder, CO.
 5.6. Transit Working Group   
 No movement here. First step is to write the Mission Statement and define the groups
 scope.
-5.7. The Best Practices Working Group is still on my wish list. Would anyone like to chair it?
+5.7. The Best Practices Working Group is still on my wish list. Would anyone like to chair it?   
 &nbsp; &nbsp; ● Best practices in calculating populations with in transportation catchments   
 &nbsp; &nbsp; ● Population in Catchments around transportation features - (USDOT)   
 &nbsp; &nbsp; ● Best practices of calculating populations affected by regional phenomena (Census)   
