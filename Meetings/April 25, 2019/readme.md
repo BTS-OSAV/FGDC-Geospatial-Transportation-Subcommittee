@@ -2,8 +2,8 @@
 ## Geospatial Transportation Subcommittee Meeting
 ### April 25, 2019
 
-*Transportaon Subcommiee Website:* https://communies.geoplaorm.gov/ngda-transportaon/transportaon-subcommiee/   
-*Attendance:*      
+**Transportaon Subcommiee Website:** https://communies.geoplaorm.gov/ngda-transportaon/transportaon-subcommiee/   
+**Attendance:**      
 ID Name Organization  
 1  Derald “The Duke” Dudley USDOT/BTS    
 2  Ronald Vaughn      DOT/FHWA   
