@@ -60,8 +60,8 @@ from April 23-26 2019
 FGDC TSC Meeting 2018.10.17   
 Derald   
 Email Eric about   
-&nbsp; &nbsp; - 1. Abstract Due Dates (November?)   
-&nbsp; &nbsp; - 2. Is there a way to ID presentation to be included as a specific track?   
+&nbsp; &nbsp; * 1. Abstract Due Dates (November?)   
+&nbsp; &nbsp; * 2. Is there a way to ID presentation to be included as a specific track?   
 5.3.1. BTS - An update in the U.S. Road Networks Specification   
 5.3.2. BTS - General Transit Feed Specification Efforts at the USDOT   
 5.3.3. OST - Presentation Steve Lewis   
@@ -118,10 +118,10 @@ Is there any interest in a joint BTS and Census study/white paper?
 GDA of 2018: (E) as part of administering the National Geospatial Data Asset data
 theme— …. (vi) identify and publish proven practices for the use and application of
 geospatial data of the lead covered agency.   
-  ● Best practices in calculating populations with in transportation catchments
-  ● Population in Catchments around transportation features - (USDOT)
-  ● Best practices of calculating populations affected by regional phenomena (Census)
-  ● Any other best practices activities? What other analysis do others perform with
+&nbsp; &nbsp;  ● Best practices in calculating populations with in transportation catchments   
+&nbsp; &nbsp;  ● Population in Catchments around transportation features - (USDOT)   
+&nbsp; &nbsp;  ● Best practices of calculating populations affected by regional phenomena (Census)   
+&nbsp; &nbsp;  ● Any other best practices activities? What other analysis do others perform with   
 transportation data? (eg Transportation and Population, Land Use, Economy?)   
 5.8. Potential TSC Transportation Talks for future meetings.   
 5.8.1. Shared Streets Introduction, James Graham - D.C. DOT?   
