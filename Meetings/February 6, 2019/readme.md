@@ -22,7 +22,7 @@ ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization
 10  Gary Baker  USDOT/Volpe   
 11  Sheila Steffenson  1Spatial    
 12  Samantha Lubkin  USDOT - FHWA    
-13  Jon Gustafson  ???where is he???    
+13  Jon Gustafson  FAA    
 14  Neil Trenk  Census Bureau    
 15  Valerie Beaudin  Census Bureau    
 16  Dierdre Bevington-Attardi  Census Bureau   
@@ -100,6 +100,7 @@ Date TBD: TSC Qtly. Mtg. @ Location TBD
 October  November  December    
 Date TBD: TSC Qtly. Mtg. @ Location TBD   
 11/26: Intercity Bus WG Mtg. via Web Conference   
+
 Other Topics   
 DD - Mentioned the TSC Website   
 DD to Doodle discussion meeting US Road Spec meeting in Early March.   
