@@ -31,10 +31,10 @@ Audio access is possible by calling (515) 739-1285, 286074#.
 &nbsp; &nbsp; [2019.02.06 Presentation: FGDC TSC Quarterly Mtg v2 Ron Vaughn](https://drive.google.com/drive/folders/1Z9rGgAb50fJgZaSNCnGN58OdJ5CcdrdG)   
 &nbsp; &nbsp; [2019.04.25 GIS-T Special Interest Group](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/06/2019_april_gis-t_sig.pdf)   
 
-**2018 Minutes**
-[**2018 Minutes on GeoPlatform**](https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/2019-meetings-of-the-transportation-subcommittee/)
-&nbsp; &nbsp; [2018.08.02 Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/August%202,%202018/readme.md)
-&nbsp; &nbsp; [next]()
+**2018 Minutes**   
+[**2018 Minutes on GeoPlatform**](https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/2019-meetings-of-the-transportation-subcommittee/)   
+&nbsp; &nbsp; [2018.08.02 Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/August%202,%202018/readme.md)   
+&nbsp; &nbsp; [next]()   
 
 **Working Groups under the Geospatial Transportation Subcommittee**       
 &nbsp; &nbsp; [Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
