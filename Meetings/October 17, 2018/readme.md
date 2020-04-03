@@ -60,8 +60,8 @@ from April 23-26 2019
 FGDC TSC Meeting 2018.10.17   
 Derald   
 Email Eric about   
-&nbsp; &nbsp; * 1. Abstract Due Dates (November?)   
-&nbsp; &nbsp; * 2. Is there a way to ID presentation to be included as a specific track?   
+&nbsp; &nbsp; ● 1. Abstract Due Dates (November?)   
+&nbsp; &nbsp; ● 2. Is there a way to ID presentation to be included as a specific track?   
 5.3.1. BTS - An update in the U.S. Road Networks Specification   
 5.3.2. BTS - General Transit Feed Specification Efforts at the USDOT   
 5.3.3. OST - Presentation Steve Lewis   
@@ -127,8 +127,7 @@ transportation data? (eg Transportation and Population, Land Use, Economy?)
 5.8.1. Shared Streets Introduction, James Graham - D.C. DOT?   
 Derald To reach out…   
 5.8.2. GDA Talk -   
-https://www.congress.gov/bill/115th-congress/house-bill/302/text#toc-H5B65F
-4B94E6C4681A92559A35AECC991   
+https://www.congress.gov/bill/115th-congress/house-bill/302/text#toc-H5B65F4B94E6C4681A92559A35AECC991   
 FGDC TSC Meeting 2018.10.17   
 5.8.3. Intro to USDOT GTFS activities (National Transit Map, Intercity Busing Atlas,
 Intermodal Passenger Connectivity)   
@@ -154,8 +153,7 @@ works/What to change)
 7.2. Intercity Bus Meeting on 2018.11.30   
 7.3. Dec 5 Fed Land Road WG   
 7.4. Jan 31 TSC/Fed Lands meeting   
-**TSC Calendar:** https://docs.google.com/spreadsheets/d/15kMwjbUJzoAxdZ_Ha7XmPXYqjLNVwfAAgzbsAcPfU9
-E/edit?usp=sharing      
+**TSC Calendar:** https://docs.google.com/spreadsheets/d/15kMwjbUJzoAxdZ_Ha7XmPXYqjLNVwfAAgzbsAcPfU9E/edit?usp=sharing      
 
 8. Mission Reminder   
 8.1. Enhancing the transportation theme of the national spatial data infrastructure   
