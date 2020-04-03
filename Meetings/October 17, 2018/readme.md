@@ -26,7 +26,7 @@ ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization
 4.1. No presentations today.   
 FGDC TSC Meeting 2018.10.17   
 
-5. Updates
+5. Updates   
 5.1. Charter Update   
 From Ken Shafer   
 With the Geospatial Data Act now in affect, we'll have to update most of the charters
