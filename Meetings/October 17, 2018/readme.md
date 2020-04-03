@@ -60,8 +60,8 @@ from April 23-26 2019
 FGDC TSC Meeting 2018.10.17   
 Derald   
 Email Eric about   
-1. Abstract Due Dates (November?)   
-2. Is there a way to ID presentation to be included as a specific track?   
+&nbsp; &nbsp; - 1. Abstract Due Dates (November?)   
+&nbsp; &nbsp; - 2. Is there a way to ID presentation to be included as a specific track?   
 5.3.1. BTS - An update in the U.S. Road Networks Specification   
 5.3.2. BTS - General Transit Feed Specification Efforts at the USDOT   
 5.3.3. OST - Presentation Steve Lewis   
