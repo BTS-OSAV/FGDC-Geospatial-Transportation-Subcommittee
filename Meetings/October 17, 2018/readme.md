@@ -1,14 +1,16 @@
+## Geospatial Transportation Subcommittee Meeting
+### October 17, 2018
 
-1. Welcome   
+Welcome   
 
-2. Webinar Information
+**Transportaon Subcommiee Website:** Webinar Information   
 Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc
 There is no webinar today. There was a mixup in the software licensing so we’ll just do a phone
 call today.
 Audio: (515) 739-1285, 286074#   
 
-3. Attendance
-ID Name Organization Email
+3. **Attendance:** 
+ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization  
 1 Derald Dudley USDOT/BTS Derald.Dudley@dot.gov
 2 Valerie Beaudin Census Valerie.L.Beaudin@census.gov
 3 Ronald Vaughn DOT/FHWA ronald.vaughn@dot.gov
