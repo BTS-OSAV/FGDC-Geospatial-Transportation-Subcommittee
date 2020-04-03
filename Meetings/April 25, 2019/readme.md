@@ -4,7 +4,7 @@
 
 **Transportaon Subcommiee Website:** https://communies.geoplaorm.gov/ngda-transportaon/transportaon-subcommiee/   
 **Attendance:**      
-ID Name Organization  
+ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization    
 1  Derald “The Duke” Dudley USDOT/BTS    
 2  Ronald Vaughn      DOT/FHWA   
 3  Steve Lewis   USDOT   
