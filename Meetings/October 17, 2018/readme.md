@@ -34,8 +34,7 @@ with new wording to align to the new requirements. I suggest we wait until after
 GDA Tiger Team performs its analysis of the GDA then update all the required charters
 at that point. Does that work for you? It should not impact the sub committee's work in
 the meantime.   
-Link to GDA  https://www.congress.gov/bill/115th-congress/house-bill/302/text#toc-H5B65F4B94E6C4681A9
-2559A35AECC991   
+Link to GDA  https://www.congress.gov/bill/115th-congress/house-bill/302/text#toc-H5B65F4B94E6C4681A92559A35AECC991   
 5.2. US Road Network Specification (USRNS) Working Group   
 The Working Group is reviewing the features and attributes included in ISO 14825:2011
 Our next meeting will be a facilitated face to face meeting to select which features and
@@ -44,14 +43,11 @@ I’m pushing that meeting to mid January to because the FHWA is conducting a se
 meetings that might impact our work.   
 I’m working on securing space at the Keck center in DC.   
 Features:   
-https://docs.google.com/document/d/19xCrX6pAtkVZOY0l0YR5ruP7UYqoWxfj_PwCuQrseDQ/edit?usp=s
-sharing   
+https://docs.google.com/document/d/19xCrX6pAtkVZOY0l0YR5ruP7UYqoWxfj_PwCuQrseDQ/edit?usp=sharing   
 Attributes:   
-https://docs.google.com/document/d/1y_aG9HOnsjnQ0qYXGbZVg_1CSEBabIFnCmPO_Mnfdro/edit?usp=
-sharing   
+https://docs.google.com/document/d/1y_aG9HOnsjnQ0qYXGbZVg_1CSEBabIFnCmPO_Mnfdro/edit?usp=sharing   
 Attribute Definitions:   
-https://docs.google.com/spreadsheets/d/1u6sOg1gJk1UXHmpyFiVgZQ1i7FehP0e-QwpINlJhmVA
-/edit?usp=sharing   
+https://docs.google.com/spreadsheets/d/1u6sOg1gJk1UXHmpyFiVgZQ1i7FehP0e-QwpINlJhmVA/edit?usp=sharing   
 5.3. GIS-T 2019 Federal Track Update   
 The idea has been presented to the GIS-T planning committee and was well received.
 The planning committee is still considering the schedule so we are on stand-by.
@@ -60,8 +56,8 @@ from April 23-26 2019
 FGDC TSC Meeting 2018.10.17   
 Derald   
 Email Eric about   
-&nbsp; &nbsp; ● 1. Abstract Due Dates (November?)   
-&nbsp; &nbsp; ● 2. Is there a way to ID presentation to be included as a specific track?   
+&nbsp; &nbsp; 1. Abstract Due Dates (November?)   
+&nbsp; &nbsp; 2. Is there a way to ID presentation to be included as a specific track?   
 5.3.1. BTS - An update in the U.S. Road Networks Specification   
 5.3.2. BTS - General Transit Feed Specification Efforts at the USDOT   
 5.3.3. OST - Presentation Steve Lewis   
@@ -86,8 +82,7 @@ through integrated crash, roadway attribute, and traffic volume data.
 5.3.15. Fed Lands Working Group?   
 5.4. Federal Land Roads (FLR) Working Group Update - Gita Urban-Mathieux   
 Oct 3rd Meeting - Tom Roff & Tammy Ratcliff presented on work at FHWA
-https://drive.google.com/file/d/1p1sTgNeeHEksrK0fVWAdf6i47GaBaiG2/view?usp=shar
-ing   
+https://drive.google.com/file/d/1p1sTgNeeHEksrK0fVWAdf6i47GaBaiG2/view?usp=sharing   
 Next meeting Dec. 5th - Trails to be discussed at the next meetings   
 Potential meeting Thursday 31st of January for FLRWR after ESRI Fed UC   
 Action: Derald Chat with Gita about coordinating   
