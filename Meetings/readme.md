@@ -1,17 +1,17 @@
 ## Geospatial Transportation Subcommittee (GTS) Meeting Minutes
 
-#### 2020
-[April 30, 2020 Meeting Agenda (tentative)](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/April%2030%2C%202020)   
-[February 25, 2020 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/February%2025,%202020/readme.md)
+#### 2020   
+[April 30, 2020 Meeting Agenda (tentative)](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/April%2030%2C%202020)    
+[February 25, 2020 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/February%2025,%202020/readme.md)   
 
-#### 2019
+#### 2019   
 [April 25, 2019 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/April%2025%2C%202019)   
-[February 6, 2019 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/February%206%2C%202019)
+[February 6, 2019 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/February%206%2C%202019)   
 
-#### 2018
+#### 2018    
+[August 2, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/August%202%2C%202018)   
  
- 
-#### 2017
+#### 2017   
  
 ***********************************       
 ### Other Working Group Meeting Minutes   
