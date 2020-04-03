@@ -2,11 +2,11 @@
 ### February 6, 2019
 
 
-**Transportaon Subcommiee Website:** Webinar Information 
-Phone: (515) 739-1285, 286074#
-Webinar: https://connectdot.connectsolutions.com/fgdc_tsc
-Slides: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/FGDC-TSC-Quarterly-Mtg_02062019_v2.pdf
-Subcommittee Website: https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/
+**Transportaon Subcommiee Website:** Webinar Information   
+Phone: (515) 739-1285, 286074#   
+Webinar: https://connectdot.connectsolutions.com/fgdc_tsc   
+Slides: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/FGDC-TSC-Quarterly-Mtg_02062019_v2.pdf   
+Subcommittee Website: https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/   
 
 **Attendance:**        
 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization      
