@@ -102,7 +102,7 @@ The site will go live in October when I present it at the Rural and Intercity Bu
 Transportation conference in Boulder, CO.   
 5.6. Transit Working Group   
 No movement here. First step is to write the Mission Statement and define the groups
-scope.
+scope.   
 5.7. The Best Practices Working Group is still on my wish list. Would anyone like to chair it?   
 &nbsp; &nbsp; ● Best practices in calculating populations with in transportation catchments   
 &nbsp; &nbsp; ● Population in Catchments around transportation features - (USDOT)   
