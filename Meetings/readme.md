@@ -2,7 +2,6 @@
 
 #### 2020
 [April 30, 2020 Meeting Agenda (tentative)](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/April%2030%2C%202020)
-
 [February 25, 2020 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/February%2025,%202020/readme.md)
 
 #### 2019
