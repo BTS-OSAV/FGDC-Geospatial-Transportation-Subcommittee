@@ -41,7 +41,9 @@ Clara Reschovsky and Theresa Firestine
 KaNin Reese   
 Cedsci Feedback - cedsci.feedback@census.gov   
 4.4. Power Points are here:   
-https://drive.google.com/drive/folders/1oYtjTJycqxp0mej_loIKpNNoFTtwwsS5. Updates   
+https://drive.google.com/drive/folders/1oYtjTJycqxp0mej_loIKpNNoFTtwwsS   
+
+5. Updates      
 5.1. Charter   
 We’ve drafted an update to the the original charter. We’ve updated the language and clarified
 leadership roles and their responsibilities.   
@@ -102,9 +104,9 @@ Transportation conference in Boulder, CO.
 No movement here. First step is to write the Mission Statement and define the groups
 scope.
 5.7. The Best Practices Working Group is still on my wish list. Would anyone like to chair it?
-&nbsp; &nbsp; ● Best practices in calculating populations with in transportation catchments
-&nbsp; &nbsp; ● Population in Catchments around transportation features - (USDOT)
-&nbsp; &nbsp; ● Best practices of calculating populations affected by regional phenomena (Census)
+&nbsp; &nbsp; ● Best practices in calculating populations with in transportation catchments   
+&nbsp; &nbsp; ● Population in Catchments around transportation features - (USDOT)   
+&nbsp; &nbsp; ● Best practices of calculating populations affected by regional phenomena (Census)   
 &nbsp; &nbsp; ● Any other best practices activities? What other analysis do others perform with
 transportation data? (eg Transportation and Population, Land Use, Economy?)   
 5.8. Potential TSC Talks.   
