@@ -1,15 +1,16 @@
 
 
-FGDC TSC Meeting 2018.08.02
+## Geospatial Transportation Subcommittee Meeting
+### August 2, 2018    
 
 1. Welcome   
 
-2. Webinar Information   
-Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc`   
+2. **Transportaon Subcommiee Website:** Webinar Information   
+Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc  
 Audio: (515) 739-1285, 286074#   
 
-3. Attendance   
-1 Name  Organization   
+3. **Attendance:**      
+1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
 2 Derald Dudley   USDOT/BTS   
 3 Charlynn Burd   Census   
 4 Brian McKenzie   Census   
@@ -44,8 +45,7 @@ https://drive.google.com/drive/folders/1oYtjTJycqxp0mej_loIKpNNoFTtwwsS5. Update
 5.1. Charter   
 We’ve drafted an update to the the original charter. We’ve updated the language and clarified
 leadership roles and their responsibilities.   
-Here is a link to the proposed Charter update: https://docs.google.com/document/d/1DOvV9blcy7b7QPWMVx98JC1mpoIDeRkfob3iHMlYu3o/
-edit?usp=sharing   
+Here is a link to the proposed Charter update: https://docs.google.com/document/d/1DOvV9blcy7b7QPWMVx98JC1mpoIDeRkfob3iHMlYu3o/edit?usp=sharing   
 Sent draft charter to Lucia Foulkes and Ken Shaffer at FGDC on 6/14.  
 I asked about its status this morning.   
 I’ll follow up again when I return from my vacation.   
@@ -102,10 +102,10 @@ Transportation conference in Boulder, CO.
 No movement here. First step is to write the Mission Statement and define the groups
 scope.
 5.7. The Best Practices Working Group is still on my wish list. Would anyone like to chair it?
-● Best practices in calculating populations with in transportation catchments
-● Population in Catchments around transportation features - (USDOT)
-● Best practices of calculating populations affected by regional phenomena (Census)
-● Any other best practices activities? What other analysis do others perform with
+&nbsp; &nbsp; ● Best practices in calculating populations with in transportation catchments
+&nbsp; &nbsp; ● Population in Catchments around transportation features - (USDOT)
+&nbsp; &nbsp; ● Best practices of calculating populations affected by regional phenomena (Census)
+&nbsp; &nbsp; ● Any other best practices activities? What other analysis do others perform with
 transportation data? (eg Transportation and Population, Land Use, Economy?)   
 5.8. Potential TSC Talks.   
 5.8.1. Shared Streets Introduction, James Graham - D.C. DOT?   
@@ -121,7 +121,7 @@ planning manager, City of VA Beach - Storm Sense - Mapping real time flooding
 7. Upcoming Events, Milestones and Announcements   
 USRNS Meeting tomorrow @ 1400 Same URL and phone line.   
 Federal Lands WG - 8th of August at 1300   
-● Geohazards Impacting Transportation in Appalachia, 18th Annual Technical Forum,
+&nbsp; &nbsp; ● Geohazards Impacting Transportation in Appalachia, 18th Annual Technical Forum,
 Baltimore, MD, August 7-9, 2018. Hosted by Maryland DOT.   
 9/20-21 National Imagery Summit @ USGS in Reston   
 October 1 - 5 NISGIC, Address Subcommittee   
