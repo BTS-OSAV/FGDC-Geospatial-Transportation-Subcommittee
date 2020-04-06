@@ -90,10 +90,9 @@ Or
 Early Groundwork - Census, USGS, NOAA, FAA,   
 Discussion   
 R.V. Discussion on extending the conference participation and topics. Let’s present about
-something else other than roads. :) Diverse collection of presentations
-FGDC TSC Meeting 2018.04.18
-GIta
-6.4. Federal Land Roads (FLR) Working Group Update - David Cackowski   
+something else other than roads. :) Diverse collection of presentations    
+Gita   
+6.4. Federal Land Roads (FLR) Working Group Update - David Cackowski      
 6.4.1. 1st meeting held April 4, next meeting June 6 at 1 pm, USGS to lead next meeting   
 6.4.2. Need to develop WG scope and charter  
 FLR-WG Collaboration Space  
@@ -129,8 +128,7 @@ Intercity Bus Working Group Meeting
 webinar: https://connectdot.connectsolutions.com/fgdc_tsc   
 Audio: (515) 739-1285, 286074#   
 USRN Specification Definition Due  
-Definition will be email on May 1 and posted the the TSC  
-- to be discussed at the May 16 USRNS meeting  
+Definition will be email on May 1 and posted the the TSC - to be discussed at the May 16 USRNS meeting  
 USRNS and TSC Vote  
 16 May 2018 - Web Only Meeting  
 TSC Vote to adopt New Charter  
