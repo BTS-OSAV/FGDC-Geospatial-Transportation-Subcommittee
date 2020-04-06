@@ -6,26 +6,26 @@ Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc`
 Audio: (515) 739-1285, 286074#   
 
 3. Attendance   
-1 Name E-Mail Organization
-2 Derald Dudley derald.dudley@dot.gov USDOT/BTS   
-3 Ronald Vaughn ronald.vaughn@dot.gov USDOT/FHWA   
-4 Dierdre Bevington-Attardi dierdre.bevington.attardi@census.gov Census Bureau   
-5 David Cackowski g.david.cackowski@census.gov Census Bureau   
-6 Josh Coutts joshua.j.coutts@census.gov Census Bureau   
-7 Chuck Spicer charles.s.spicer.ii@census.gov Census Bureau   
-8 Neil Trenk neil.trenk@census.gov Census Bureau   
-9 Chuck Matthys cpmatthys@usgs.gov USGS   
-10 Karen Rank karen_rank@fws.gov FWS   
-11 Gita Urban-Mathieux burbanma@usgs.gov USGS/NGP   
-12 Stephanie Gonterman stephanie@isaacs-assoc.com Greyhound   
-13 Dominic Menegus dominic.menegus@dot.gov USDOT/BTS   
-14 Anders Longthorne anders.longthorne@dot.gov USDOT/NHTSA   
-15 John Pollicino john.pollicino@census.gov Census Bureau   
-16 William Medina wmedina@fs.fed.us USFS   
-17 Brenda Christensen bchristensen@fs.fed.us USFS   
-18 Wendy Hawley wendy.hawley@census.gov Census Bureau   
-19 Tom Roff thomas.roff@dot.gov FHWA   
-20 Yunjiang Xu Yunjiang.Xu@greyhound.com Greyhound Lines Inc.   
+1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
+2 Derald Dudley  USDOT/BTS   
+3 Ronald Vaughn  USDOT/FHWA   
+4 Dierdre Bevington-Attardi  Census Bureau   
+5 David Cackowski  Census Bureau   
+6 Josh Coutts  Census Bureau   
+7 Chuck Spicer Census Bureau   
+8 Neil Trenk  Census Bureau   
+9 Chuck Matthys USGS   
+10 Karen Rank  FWS   
+11 Gita Urban-Mathieux  USGS/NGP   
+12 Stephanie Gonterman  Greyhound   
+13 Dominic Menegus  USDOT/BTS   
+14 Anders Longthorne   USDOT/NHTSA   
+15 John Pollicino  Census Bureau   
+16 William Medina  USFS   
+17 Brenda Christensen  USFS   
+18 Wendy Hawley  Census Bureau   
+19 Tom Roff  FHWA   
+20 Yunjiang Xu  Greyhound Lines Inc.   
 
 4. Presentations   
 4.1. Census and USGS Road Collaboration- Dave Cackowski, Census, and Chuck Matthys,
@@ -34,26 +34,26 @@ USGS
 
 5. Procedures to remove a layer form the NSDI   
 https://drive.google.com/file/d/1Q0nFoSN8Eb1uROPWdDjloRIL6jigv1Xa/view?usp=sharing   
-● The initial notification process for proposed changes will be accomplished via an email
+&nbsp; &nbsp; ● The initial notification process for proposed changes will be accomplished via an email
 from the NGDA Theme Lead to the FGDC Office of the Secretariat (OS) which currently
 maintains the official NGDA Dataset Inventory.   
-● Updates on proposed changes will be shared and considered by the FGDC Coordination
+&nbsp; &nbsp; ● Updates on proposed changes will be shared and considered by the FGDC Coordination
 Group and Theme Leads on a monthly basis.   
-● The FGDC Steering Committee will review recommendations for action as part of the
+&nbsp; &nbsp; ● The FGDC Steering Committee will review recommendations for action as part of the
 NGDA Portfolio management process.   
-● FGDC Steering Committee review and endorsement are required for dataset addition,
+&nbsp; &nbsp; ● FGDC Steering Committee review and endorsement are required for dataset addition,
 dataset removal, and moving a dataset from one NGDA theme to another, but are
 not required for dataset changes.   
-● Once the FGDC Steering Committee endorses a change it will be incorporated into the
+&nbsp; &nbsp; ● Once the FGDC Steering Committee endorses a change it will be incorporated into the
 official NGDA Dataset Inventory and the online lists will be updated accordingly.   
-● To Remove NGDA Dataset the NGDA Theme Lead shall send the information listed
+&nbsp; &nbsp; ● To Remove NGDA Dataset the NGDA Theme Lead shall send the information listed
 below to the FGDC OS (fdgc@fgdc.gov).   
-○ NGDA Theme: <theme name>   
-○ NGDA Theme Lead: <name, agency, contact information>   
-○ NGDA Dataset: <dataset name>  
-○ NGDA Dataset Manager: <name, agency, contact information>  
-○ Justification: <rationale for removal>  
-○ Archive <plan>  
+&nbsp; &nbsp; &nbsp; &nbsp; ○ NGDA Theme: <theme name>   
+&nbsp; &nbsp; &nbsp; &nbsp; ○ NGDA Theme Lead: <name, agency, contact information>   
+&nbsp; &nbsp; &nbsp; &nbsp; ○ NGDA Dataset: <dataset name>  
+&nbsp; &nbsp; &nbsp; &nbsp; ○ NGDA Dataset Manager: <name, agency, contact information>  
+&nbsp; &nbsp; &nbsp; &nbsp; ○ Justification: <rationale for removal>  
+&nbsp; &nbsp; &nbsp; &nbsp; ○ Archive <plan>  
 5.1. Discussion of removing Transportation Analysis Zones (TAZ) from the National Spatial
 Data Infrastructure (NSDI)   
 5.2. Subcommittee recommendation regarding the removal of TAZs from the NSDI   
@@ -107,10 +107,10 @@ The next ICB WG meeting will be held on 27 April 2018 @ 2:00.
 6.6. Transit Working Group   
 I’m writing the Mission Statement and defining the groups scope.   
 6.7. The Best Practices Working Group is still on my wish list. Would anyone like to chair it?   
-● Best practices in calculating populations with in transportation catchments   
-● Population in Catchments around transportation features - (USDOT)   
-● Best practices of calculating populations affected by regional phenomena (Census)   
-● Any other best practices activities? What other analysis do others perform with
+&nbsp; &nbsp; ● Best practices in calculating populations with in transportation catchments   
+&nbsp; &nbsp; ● Population in Catchments around transportation features - (USDOT)   
+&nbsp; &nbsp; ● Best practices of calculating populations affected by regional phenomena (Census)   
+&nbsp; &nbsp; ● Any other best practices activities? What other analysis do others perform with
 transportation data? (eg Transportation and Population, Land Use, Economy?)   
 Potential TSC topics...   
 6.8. The American Community Survey and Geography (July TSC Meeting)?  
