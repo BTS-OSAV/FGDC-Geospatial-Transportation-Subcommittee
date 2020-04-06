@@ -6,7 +6,9 @@
 Phone: (515) 739-1285, 286074#   
 Webinar: https://connectdot.connectsolutions.com/fgdc_tsc   
 Slides: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/FGDC-TSC-Quarterly-Mtg_02062019_v2.pdf   
-PowerPoint Presentation by Ron Vaughn: https://drive.google.com/drive/folders/1Z9rGgAb50fJgZaSNCnGN58OdJ5CcdrdG
+PowerPoint Presentation FGDC TSC Quarterly Mtg v2 by Ron Vaughn: https://drive.google.com/drive/folders/1Z9rGgAb50fJgZaSNCnGN58OdJ5CcdrdG   
+&nbsp; &nbsp; [2019.02.06 Presentation: FGDC TSC Quarterly Mtg v2 Ron Vaughn] (https://drive.google.com/drive/folders/1Z9rGgAb50fJgZaSNCnGN58OdJ5CcdrdG)   
+
 Subcommittee Website: https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/   
 
 **Attendance:**        
