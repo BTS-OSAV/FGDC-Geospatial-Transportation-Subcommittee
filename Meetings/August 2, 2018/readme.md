@@ -9,6 +9,7 @@
 Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc  
 Audio: (515) 739-1285, 286074#   
 PowerPoint Presentation from Census: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/01/tsc_pres_census_20180802.pptx   
+PowerPoint Presentation - How BTS Uses ACS Data: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/01/tsc_pres_bts_20180802.pptx
 
 3. **Attendance:**      
 1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
