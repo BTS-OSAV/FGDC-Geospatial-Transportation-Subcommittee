@@ -1,17 +1,18 @@
 
-FGDC TSC Meeting 2018.03.20
+## Geospatial Transportation Subcommittee Meeting
+### March 20, 2018 
 
 1. Welcome   
 
-2. Webinar Information   
+2. **Transportaon Subcommiee Website:**  
+Webinar Information   
 Join us by webinar: https://connectdot.connectsolutions.com/itip   
 Audio: 1.877.336.1839, 5908272   
 
 3. Location: GIS-T, Little Rock Arkansas and Web Conference   
 
-4. Attendance, Please sign in:   
-
-1 Name E-Mail Organization
+4. **Attendance:**  Please sign in:   
+1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization    
 2 Ronald Vaughn ronald.vaughn@dot.gov USDOT/FHWA   
 3 Derald Dudley derald.dudley@dot.gov USDOT/BTS  
 4 Sharon Hawkins Sharon.hawkins@ardot.gov ARDOT  
