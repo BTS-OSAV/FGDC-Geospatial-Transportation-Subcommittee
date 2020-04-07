@@ -13,25 +13,25 @@ Audio: 1.877.336.1839, 5908272
 
 4. **Attendance:**  Please sign in:   
 1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization    
-2 Ronald Vaughn ronald.vaughn@dot.gov USDOT/FHWA   
-3 Derald Dudley derald.dudley@dot.gov USDOT/BTS  
-4 Sharon Hawkins Sharon.hawkins@ardot.gov ARDOT  
-5 Steve Lewis Steve.Lewis@dot.gov USDOT - GIO  
-6 Sheila Steffeason Sheila.steffeason@1spatial.com 1Spatial  
-7 Lynda Liptrap Lynda.a.liptrap@census.gov Census  
-8 Gary Baker gary.baker@dot.gov Volpe  
-9 Rich Grady rgrady@appgeo.com AppGeo  
-10 Jenn Sylvester jsylvester@appgeo.com AppGeo  
-11 Chris Cretini cretinic@usgs.gov USGS  
-12 Jeremy Rogers Jeremy.rogers@txdot.gov TX DOT  
-13 David Friedenfeld david.freidenfield@txdot.gov TX DOT  
-14 Paul Sittig paul.sittig@state.nm.gov NM DOT  
-15 James Graham james.graham2@dot.gov DDOT  
-16 Tom Roff Thomas.Roff@dot.gov FHWA  
-17 Jonathan Duran jonathan.duran@arkansas.gov AR GIS Office  
-18 Dominic Menegus dominic.menegus@dot.gov BTS   
-19 Ting Ma ting.ma@dc.gov DDOT  
-20 Kathleen Salvador ksalvador@alk.com ALK Technologies  
+2 Ronald Vaughn USDOT/FHWA   
+3 Derald Dudley USDOT/BTS  
+4 Sharon Hawkins ARDOT  
+5 Steve Lewis USDOT - GIO  
+6 Sheila Steffeason 1Spatial  
+7 Lynda Liptrap Census  
+8 Gary Baker Volpe  
+9 Rich Grady AppGeo  
+10 Jenn Sylvester AppGeo  
+11 Chris Cretini USGS  
+12 Jeremy Rogers TX DOT  
+13 David Friedenfeld TX DOT  
+14 Paul Sittig NM DOT  
+15 James Graham DDOT  
+16 Tom Roff FHWA  
+17 Jonathan Duran AR GIS Office  
+18 Dominic Menegus BTS   
+19 Ting Ma DDOT  
+20 Kathleen Salvador ALK Technologies  
 
 5. Charter Update   
 The updated charter has been cleared by the USDOT Office of General Council. We will vote to
@@ -174,7 +174,7 @@ Audio: (515) 739-1285, 286074#
 10.6. Standards Development  
 10.7. Identifying and Promoting Best Practices    
 
-11. Open Discussion
+11. Open Discussion   
 11.1. We could use help with the web page. Is anyone willing to coordinate efforts with the
 FGDC web team?     
 
