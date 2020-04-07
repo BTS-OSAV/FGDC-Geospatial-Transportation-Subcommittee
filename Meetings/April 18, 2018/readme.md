@@ -65,8 +65,7 @@ Data Infrastructure (NSDI)
 6. Updates   
 6.1. Charter   
 Here is a link to the proposed Charter update:   
-https://docs.google.com/document/d/1DOvV9blcy7b7QPWMVx98JC1mpoIDeRkfob3iHMlYu3o/
-edit?usp=sharing   
+https://docs.google.com/document/d/1DOvV9blcy7b7QPWMVx98JC1mpoIDeRkfob3iHMlYu3o/edit?usp=sharing   
 Discussion:     
 We will vote on Charter Adoption at the 16 May 2018 TSC/USRNS meeting   
 6.2. US Road Network Specification (USRNS) Working Group   
@@ -80,8 +79,7 @@ representation. We will use this time to increase State DOT participation.
 16 May 2018: Review and discussion of USRNS definition and purpose   
 Discussion:   
 R.V. Sent email with proposed attributes  
-https://docs.google.com/spreadsheets/d/1xw335aPuK8oGs8er7AVs1is4ZmziCa4w1WqKWgUbr
-GA/edit?usp=sharing   
+https://docs.google.com/spreadsheets/d/1xw335aPuK8oGs8er7AVs1is4ZmziCa4w1WqKWgUbrGA/edit?usp=sharing   
 6.3. GIS-T 2019   
 Ron Vaughn, Dom Menegus, and I are organizing a federal track at the 2019 GIS in
 Transportation convention which will be held in Florida next March. We seek 30 minute
@@ -125,8 +123,7 @@ Passenger Connectivity)
  
 7. Upcoming Events and Milestones   
 Calendar:  
-https://docs.google.com/spreadsheets/d/15kMwjbUJzoAxdZ_Ha7XmPXYqjLNVwfAAgzbsAcPfU9
-E/edit?usp=sharing   
+https://docs.google.com/spreadsheets/d/15kMwjbUJzoAxdZ_Ha7XmPXYqjLNVwfAAgzbsAcPfU9E/edit?usp=sharing   
 Intercity Bus Working Group Meeting   
 27 April 2018, 1:30 - 2:30 @ Web   
 webinar: https://connectdot.connectsolutions.com/fgdc_tsc   
