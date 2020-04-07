@@ -34,7 +34,9 @@ Audio: (515) 739-1285, 286074#
 4. Presentations   
 4.1. Census and USGS Road Collaboration- Dave Cackowski, Census, and Chuck Matthys,
 USGS   
+PowerPoint Presentation: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/01/tsc_pres_usgs_census_nat_map_20180418.pptx   
 4.2. Saying Goodbye to Transportation Analysis Zones   
+PowerPoint Presentation: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/01/tsc_pres_census_psap_20180418.pptx
 
 5. Procedures to remove a layer form the NSDI   
 https://drive.google.com/file/d/1Q0nFoSN8Eb1uROPWdDjloRIL6jigv1Xa/view?usp=sharing   
