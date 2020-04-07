@@ -62,26 +62,21 @@ moves us away from an application centric development model
 6.5. Our Canadian Colleagues presented the Canadian National Road Network (NRN) for
 review by the USRNs-WG on 7 February 2018  
 6.5.1. Canadian NRN Specifications:  
-https://drive.google.com/drive/folders/1UF2ulmKyF1nZ83IzLVj2vW7kaZP7QDFO?usp=s
-haring  
+https://drive.google.com/drive/folders/1UF2ulmKyF1nZ83IzLVj2vW7kaZP7QDFO?usp=sharing  
 6.5.2. Canadian NRN Feature Catalog:  
-https://drive.google.com/file/d/16FXkJVr2usuVw9TdWSg4FqxrKWi71qpJ/view?usp=sha
-ring  
+https://drive.google.com/file/d/16FXkJVr2usuVw9TdWSg4FqxrKWi71qpJ/view?usp=sharing  
 6.5.3. Canadian NRN Conceptual Data Model (Schema)  
-https://drive.google.com/file/d/15TPKaLLieF-OKhnRQ6DeZxV0dMnqCUtS/view?usp=sha
-ring  
+https://drive.google.com/file/d/15TPKaLLieF-OKhnRQ6DeZxV0dMnqCUtS/view?usp=sharing  
 6.6. The USRNS - Working Group discussed the NRN on 23 February 2018 which resulted in
 the following actions items.  
 6.6.1. The WG will vote on April 11th about adopting the conceptual model (schema,
 relationships, data types etc.), the geometric model, and the position accuracy
 specification.   
 6.6.1.1. Conceptual Model   
-https://drive.google.com/file/d/15TPKaLLieF-OKhnRQ6DeZxV0dMnqCUt
-S/view?usp=sharing   
+https://drive.google.com/file/d/15TPKaLLieF-OKhnRQ6DeZxV0dMnqCUtS/view?usp=sharing   
 6.6.1.2. Geometric Model  
 Section 2.3 -  
-https://drive.google.com/file/d/15TPKaLLieF-OKhnRQ6DeZxV0dMnqCUt
-S/view?usp=sharing  
+https://drive.google.com/file/d/15TPKaLLieF-OKhnRQ6DeZxV0dMnqCUtS/view?usp=sharing  
 6.6.1.3. Positional Accuracy Specification  
 https://drive.google.com/file/d/19b1fe5aWTpIT51dbm2qZZHvd8ut2GJ56/view?usp=sharing  
 6.6.2. An updated project schedule will be provided at the 4/11 meeting.  
