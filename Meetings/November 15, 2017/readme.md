@@ -31,7 +31,7 @@ Please sign in: https://docs.google.com/document/d/1noPdbQwf4vK_cYOIVrISw06iBbIi
 5.	Presentations   
 5.1.	On The Map for Emergency Management Tool   
 Heath Hayward  
-[CENSUS Emergency Management](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20171115_emergency_management.pptx)
+[CENSUS Emergency Management](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20171115_emergency_management.pptx)   
 5.2.	The FGDC-TSC Year in Review….  
 Derald Dudley  
 
