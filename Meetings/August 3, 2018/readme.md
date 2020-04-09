@@ -1,4 +1,0 @@
-
-FGDC TSC Meeting 2018.08.02
-
-# DELETE THIS FILE
