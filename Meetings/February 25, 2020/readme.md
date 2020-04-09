@@ -3,10 +3,11 @@
 ## Meeting on February 25, 2020
 
 Connecting:
-Web Conference: https://connectdot.connectsolutions.com/fgdc_tsc   
+**Transportation Subcommittee Website:** Webinar Information    
+https://connectdot.connectsolutions.com/fgdc_tsc   
 Conference Call: (515) 606-5187, 286074#   
 
-Please Sign In:   
+**Attendance:** Please Sign In:   
 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization  
 1 Derald Dudley OST-Research/BTS/OSAV    
 2 Leslie Haig Spatial Front, Inc.    
