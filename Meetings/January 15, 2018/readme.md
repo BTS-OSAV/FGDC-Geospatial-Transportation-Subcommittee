@@ -119,7 +119,7 @@ National Intercity Bus Atlas
 Webinar: https://connectdot.connectsolutions.com/fgdc_tsc  
 Audio: (515) 739-1285, 286074#  
 
-10. Ideas to Advance to our Mission  
+10. Ideas to Advance our Mission  
 10.1. Enhancing the Transportation Theme of the National Spatial Data Infrastructure  
 10.2. Easy Access, Better Data, Greater Understanding  
 10.3. Facilitating Partnerships and Coordinating Efforts  
