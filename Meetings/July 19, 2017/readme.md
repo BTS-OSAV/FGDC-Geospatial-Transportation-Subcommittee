@@ -9,7 +9,7 @@ PowerPoint Presentation Bike Share: https://communities.geoplatform.gov/ngda-tra
 PowerPoint Presentation National Transit Map: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170719_national_transit_map.pptx   
 PowerPoint Presentation Performance Measures: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170719_performance_measures.pptx   
 PowerPoint Presentation Transit Deserts: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170719_transit_deserts.pptx   
-Video - [Geospatial Workbench Application with GTFS: video width="1680" height="1048" mp4=   "](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170709_geospatial_workbench_gtfs.mp4")    
+Video - [Geospatial Workbench Application with GTFS](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170709_geospatial_workbench_gtfs.mp4")    
  
 2. **Attendance:**        
 1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
