@@ -1,16 +1,6 @@
 ## Geospatial Transportation Subcommittee Meeting
 ### September 15, 2017    
 
-  
-
-   
-
-
-3. **Attendance:**      
-1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
-2 Derald Dudley   USDOT/BTS
-
-
 1.	Welcome   
 
 2.	**Transportaon Subcommiee Website:** Webinar Information   
@@ -53,7 +43,7 @@ US Army Engineer Research and Development Center Coastal and Hydraulics Laborato
 Dr. Ned Mitchell is a research civil engineer with the Coastal and Hydraulics Lab at the U.S. Army Engineer Research and Development Center (ERDC) in Vicksburg, Miss.  
 His research focuses on development of decision-support tools and performance metrics for the Corps' Civil Works mission area, 
 notably with regards to the U.S. marine transportation system.  He also serves as Director of the ERDC Dredging Innovations Group (DIG), 
-overseeing research and development of new dredging technologies and best-management practices for the Corps' Navigation business line.    He received his PhD in civil engineering from Vanderbilt University in 2009.
+overseeing research and development of new dredging technologies and best-management practices for the Corps' Navigation business line.  He received his PhD in civil engineering from Vanderbilt University in 2009.
 [PowerPoint Presentation: USACE-AIS](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170915_USACE-AIS.pdf)     
 5.2.	Electronic Navigational Charts  
 Colby Harmon  
