@@ -7,7 +7,7 @@ Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc
 Audio: (515) 739-1285, 286074#   
 PowerPoint Presentation from Census:  
  
-**Attendance:**        
+2. **Attendance:**        
 1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
 2 Derald Dudley   USDOT/BTS  
 3	Gita Urban-Mathieux	 USGS/NGP  
