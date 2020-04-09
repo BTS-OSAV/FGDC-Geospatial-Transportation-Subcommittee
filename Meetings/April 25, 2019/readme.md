@@ -3,7 +3,7 @@
 ### April 25, 2019
 #### GIS-T Special Interest Group   
 
-**Transportaon Subcommiee Website:** https://communies.geoplaorm.gov/ngda-transportaon/transportaon-subcommiee/   
+**Transportation Subcommittee Website:** https://communies.geoplaorm.gov/ngda-transportaon/transportaon-subcommiee/   
 **Attendance:**      
 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization    
 1  Derald “The Duke” Dudley USDOT/BTS    
