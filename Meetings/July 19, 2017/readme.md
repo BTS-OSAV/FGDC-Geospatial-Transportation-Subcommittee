@@ -5,7 +5,11 @@
 **Transportation Subcommittee Website:** Webinar Information   
 Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc  
 Audio: (515) 739-1285, 286074#   
-PowerPoint Presentation from Census:  
+PowerPoint Presentation Bike Share: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170719_IPCD_bikeshare.pptx   
+PowerPoint Presentation National Transit Map: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170719_national_transit_map.pptx   
+PowerPoint Presentation Performance Measures: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170719_performance_measures.pptx   
+PowerPoint Presentation Transit Deserts: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170719_transit_deserts.pptx   
+Video: [video width="1680" height="1048" mp4="https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170709_geospatial_workbench_gtfs.mp4"][/video]
  
 2. **Attendance:**        
 1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
