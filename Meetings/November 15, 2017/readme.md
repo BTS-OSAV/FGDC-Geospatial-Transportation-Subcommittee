@@ -39,7 +39,6 @@ Derald Dudley
 6.1.	US Road Network - Minimum Content Guideline (USRN – MCG) Update  
 6.2.	Charter Update  
 6.2.1.	We’re nearly there;  The USDOT is having a discussion about which office will hold the management responsibility of the TSC.  
-
 6.3.	Best Practices Discussion  
 6.3.1.	Best practices in calculating populations with in transportation catchments.  
 
