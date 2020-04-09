@@ -1,13 +1,15 @@
-## Geospatial Transportation Subcommittee Agenda    
+ 
+## USDOT / FGDC Geospatial Transportation Subcommittee Meeting Agenda    
 ### Tentatively scheduled for April 30, 2020
 
 Connecting:   
+**Transportation Subcommittee Website:** Webinar Information   
 Web Conference: https://connectdot.connectsolutions.com/fgdc_tsc   
 Conference Call: (515) 606-5187, 286074#   
 
 Previous Minutes from 02/25/2020: https://docs.google.com/document/d/1XZMEt-K7MmBNaO3TIROTenlhVnNY6mCXiwIpzfnexQE/edit
 
-Please Sign In:    
+**Attendance:** Please Sign In:    
 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization   
 1   Derald Dudley   OST-Research/BTS/OSAV   
 2   Leslie Haig   Spatial Front, Inc.   
