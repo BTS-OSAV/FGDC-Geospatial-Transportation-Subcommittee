@@ -48,7 +48,7 @@ https://docs.google.com/spreadsheets/d/1GgaqEMt_oZUTFzd-DJ1lG1QZ_ycjemTMRZyJte3V
 6.3.	Current effort is to identify attributes that meet the Inventory use case.  
 6.3.1.	Sources for Inventory use cases:  
 6.3.1.1.	Required Route and Inventroy attributes from the HPMS field guide: 
-(https://www.fhwa.dot.gov/policyinformation/hpms/fieldmanual/hpms_field_manual_dec2016.pdf)   
+https://www.fhwa.dot.gov/policyinformation/hpms/fieldmanual/hpms_field_manual_dec2016.pdf   
 6.3.1.2.	Compiled Trello Submissions:	https://docs.google.com/document/d/1lDEGQ3Z8tiqUcqppCJGSUAyLy1tLVmEgRUsuR1Qp7gk/edit?usp=sharing   
 6.4.	Gita Urban-Mathieux added the Topographic Mapping use case - a geographic representation at of a road network at 1:24,000-scale 
 or better. There is also a need for small scale (1:1,000,000) roads data.  
