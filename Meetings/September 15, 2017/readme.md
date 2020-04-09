@@ -17,8 +17,7 @@ Main DOT entrance is across from the Navy Yard metro stop.
 Washington D.C. 20590  
 
 4.	**Attendance:** 
-Please sign in: https://docs.google.com/document/d/18o7JipVnGcnfGUU6AdNUMyjphB627tqE9YOHmIVfsNo/edit?usp=sharing  
-https://docs.google.com/document/d/18o7JipVnGcnfGUU6AdNUMyjphB627tqE9YOHmIVfsNo/edit?usp=sharing   
+Please sign in: https://docs.google.com/document/d/18o7JipVnGcnfGUU6AdNUMyjphB627tqE9YOHmIVfsNo/edit?usp=sharing    
 1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization   
 2	Derald Dudley USDOT/BTS   
 3	Kenneth Mitchell USACE   
