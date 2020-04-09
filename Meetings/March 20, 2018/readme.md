@@ -5,7 +5,7 @@
 1. Welcome   
 PowerPoint Presentation: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/01/tsc_pres_gis-t_20180320.pptx
 
-2. **Transportaon Subcommiee Website:**  
+2. **Transportation Subcommittee Website:**  
 Webinar Information   
 Join us by webinar: https://connectdot.connectsolutions.com/itip   
 Audio: 1.877.336.1839, 5908272   
