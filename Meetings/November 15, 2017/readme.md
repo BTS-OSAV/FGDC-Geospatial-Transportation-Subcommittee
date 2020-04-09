@@ -19,18 +19,19 @@ Suitland, MD 20746
 Please sign in: https://docs.google.com/document/d/1noPdbQwf4vK_cYOIVrISw06iBbIipCp4FcU5g2Ruo0I/edit?usp=sharing   
 1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
 2 Derald Dudley   USDOT/BTS    
-3	Elizabeth McCartney		USGS/NGTOC
-4	Chuck Matthys	 USGS/NGTOC
-5	Rich Grady		AppGeo
-6	Neil Trenk		US Census Bureau
-7	Tammy Ratliff		USDOT / EFLHD
-8	Karen Rank		DOI/USFWS
-9	Samantha Lubkin		FHWA - Bridges/Tunnels
-10	David Cackowski		US Census Bureau
+3	Elizabeth McCartney		USGS/NGTOC   
+4	Chuck Matthys	 USGS/NGTOC  
+5	Rich Grady		AppGeo  
+6	Neil Trenk		US Census Bureau  
+7	Tammy Ratliff		USDOT / EFLHD  
+8	Karen Rank		DOI/USFWS  
+9	Samantha Lubkin		FHWA - Bridges/Tunnels  
+10	David Cackowski		US Census Bureau  
 
 5.	Presentations   
 5.1.	On The Map for Emergency Management Tool   
 Heath Hayward  
+[CENSUS Emergency Management](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20171115_emergency_management.pptx)
 5.2.	The FGDC-TSC Year in Review….  
 Derald Dudley  
 
