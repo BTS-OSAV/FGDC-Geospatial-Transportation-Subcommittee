@@ -32,13 +32,11 @@ Audio: (515) 739-1285, 286074#
 19 Lucie Vogel  DHHS/IHS   
 
 5. Charter Update   
-https://docs.google.com/document/d/1DOvV9blcy7b7QPWMVx98JC1mpoIDeRkfob3iHMlYu3o/
-edit?usp=sharing   
+https://docs.google.com/document/d/1DOvV9blcy7b7QPWMVx98JC1mpoIDeRkfob3iHMlYu3o/edit?usp=sharing   
 
 6. US Road Network - Minimum Content Guideline (USRN – MCG) Update   
 6.1. Prezi: Please sign in:   
-https://docs.google.com/document/d/1Pl33nANnSncN9bobw1339nc39m_WiNyjSthaRe
-7Cz48/edit?usp=sharing   
+https://docs.google.com/document/d/1Pl33nANnSncN9bobw1339nc39m_WiNyjSthaRe7Cz48/edit?usp=sharing   
 6.2. Canadian Presentation   
 6.3. Received Comments - Thank you!   
 6.4. Will discuss Canadian presentation and comments at the 23 February 2018 meeting   
