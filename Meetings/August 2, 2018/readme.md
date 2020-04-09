@@ -5,7 +5,7 @@
 
 1. Welcome   
 
-2. **Transportaon Subcommiee Website:** Webinar Information   
+2. **Transportation Subcommittee Website:** Webinar Information   
 Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc  
 Audio: (515) 739-1285, 286074#   
 PowerPoint Presentation from Census: https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/01/tsc_pres_census_20180802.pptx   
