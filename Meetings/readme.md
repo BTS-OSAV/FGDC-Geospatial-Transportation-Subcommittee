@@ -13,6 +13,7 @@
 [August 2, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/August%202%2C%202018)     
 [April 18, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/April%2018%2C%202018)   
 [March 20, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/March%2020%2C%202018)
+[January 15, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/January%2015%2C%202018)   
 
 #### 2017   
 
