@@ -1,14 +1,17 @@
 
+## Geospatial Transportation Subcommittee Meeting
+### February 6, 2019
 
 1. Welcome   
 
-2. Webinar Information   
+2. **Transportaon Subcommiee Website:** Webinar Information    
 Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc   
-Audio: (515) 739-1285, 286074#   
+Audio: (515) 739-1285, 286074#  
+
 3. Location: Web Only   
 
-4. Attendance
-1 Name E-Mail Organization
+4. **Attendance:**  
+1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization      
 2 Derald Dudley  USDOT/BTS   
 3 Dierdre Bevington-Attardi  Census Bureau   
 4 David Cackowski  Census Bureau   
