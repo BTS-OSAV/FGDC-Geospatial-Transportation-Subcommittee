@@ -3,7 +3,7 @@
 
 1.	Welcome   
 
-2.	**Transportaon Subcommiee Website:** Webinar Information   
+2.	**Transportaon Subcommittee Website:** Webinar Information   
 Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc  
 Audio: (515) 739-1285, 286074#  
 
