@@ -1,36 +1,39 @@
-
-FGDC TSC Meeting
-7/19/2017
+## Geospatial Transportation Subcommittee Meeting
+### July 19, 2017    
 
 1.	Welcome  
-
-2.	Attendance  
-1	Name	E-Mail	Organization  
-2	Derald Dudley	derald.dudley@dot.gov	USDOT/BTS  
-3	Gita Urban-Mathieux	burbanma@usgs.gov	USGS/NGP  
-4	Samantha Lubkin	samantha.lubkin@dot.gov	USDOT/FHWA  
-5	Elizabeth McCartney	emccartney@usgs.gov	USGS/NGTOC  
-6	Raquel Wright	Raquel.Wright@dot.gov	USDOT/FRA  
-7	Tammy Ratliff	Tammy.ratliff@dot.gov	USDOT/EFLHD  
-8	Jon Sperling	jon.sperling @hud.gov	USHUD/PD&R  
-9	Neil Trenk	neil.trenk@census.gov	US Census Bureau  
-10	Dom Menegus	Dominic.Menegus@dot.gov	BTS/OSAV  
-11	Ed Strocko	Ed.Strocko@dot.gov	BTS/OSAV  
-12	Bob Pierce	rrpierce@usgs.gov	USGS  
-13	Lana Lau	Lana.Lau@dot.gov	USDOT/FHWA  
-14	Lucie Vogel	Lucie.Vogel@ihs.gov	IHS  
-15	Sharon Hawkins	sharon.hawkins@ahtd.ar.gov	ARDOT  
-16	Mark Sarmiento	mark.sarmiento@dot.gov	USDOT/FHWA  
-17	Tom Roff	tom.roff@dot.gov	USDOT/FHWA  
-18	Justyna Goworowska	justyna.goworowska@dot.gov	BTS/OSAV  
-19	Theresa Firestine	theresa.firestine@dot.gov	BTS  
-20	Jacob Feit	jacob.feit@dot.gov	MARAD  
-21	Anders Longthorne	Anders.Longthorne@dot.gov	FHWA  
-22	Michelle Gilmore	Michelle.Gilmore.CTR@dot.gov	Volpe  
-23	Gary Baker	Gary.Baker@dot.gov	Volpe  
-24	David Cackowski	G.David.Cackowski@census.gov	Census  
-25	Dierdre Bevington Attardi	Dierdre.Bevington.Attardi@census.gov	Census  
-26	Austin Phung	austin.phung.ctr@dot.gov	BTS  
+**Transportation Subcommittee Website:** Webinar Information   
+Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc  
+Audio: (515) 739-1285, 286074#   
+PowerPoint Presentation from Census:  
+ 
+**Attendance:**        
+1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
+2 Derald Dudley   USDOT/BTS  
+3	Gita Urban-Mathieux	 USGS/NGP  
+4	Samantha Lubkin	 USDOT/FHWA  
+5	Elizabeth McCartney	 USGS/NGTOC  
+6	Raquel Wright 	USDOT/FRA  
+7	Tammy Ratliff		USDOT/EFLHD  
+8	Jon Sperling	USHUD/PD&R  
+9	Neil Trenk	US Census Bureau  
+10	Dom Menegus	BTS/OSAV  
+11	Ed Strocko	BTS/OSAV  
+12	Bob Pierce	USGS  
+13	Lana Lau 	 USDOT/FHWA  
+14	Lucie Vogel		IHS  
+15	Sharon Hawkins	ARDOT  
+16	Mark Sarmiento	USDOT/FHWA  
+17	Tom Roff	USDOT/FHWA  
+18	Justyna Goworowska 	BTS/OSAV  
+19	Theresa Firestine 	BTS  
+20	Jacob Feit	 MARAD  
+21	Anders Longthorne	  FHWA  
+22	Michelle Gilmore	 	Volpe  
+23	Gary Baker	 	Volpe  
+24	David Cackowski	 	Census  
+25	Dierdre Bevington Attardi	 	Census  
+26	Austin Phung	 	BTS  
 
 3.	The National Transit Map - Derald Dudley  
 
