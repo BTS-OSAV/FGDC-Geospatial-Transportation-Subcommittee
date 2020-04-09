@@ -1,22 +1,24 @@
 
+## Geospatial Transportation Subcommittee Meeting
+### November 15, 2017    
 
 1.	Welcome   
 
-2.	Webinar Information   
+2.	**Transportaon Subcommiee Website:** Webinar Information      
 Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc`   
 Audio: (515) 739-1285, 286074#   
 
 3.	Location   
 We’ll  be meeting in the Center for Applied Technology at Census in conference Room 1J250.    
-
 Directions to the Census: https://www.census.gov/about/contact-us/cbmaps.html  
-
 U.S. Census Bureau  
 4600 Silver Hill Road  
 Suitland, MD 20746  
 
-4.	Attendance  
+4.	**Attendance:**     
 Please sign in: https://docs.google.com/document/d/1noPdbQwf4vK_cYOIVrISw06iBbIipCp4FcU5g2Ruo0I/edit?usp=sharing   
+1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
+2 Derald Dudley   USDOT/BTS    
 
 5.	Presentations   
 5.1.	On The Map for Emergency Management Tool   
