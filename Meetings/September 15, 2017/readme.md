@@ -21,6 +21,21 @@ Washington D.C. 20590
 4.	Attendance  
 Please sign in: https://docs.google.com/document/d/18o7JipVnGcnfGUU6AdNUMyjphB627tqE9YOHmIVfsNo/edit?usp=sharing  
 https://docs.google.com/document/d/18o7JipVnGcnfGUU6AdNUMyjphB627tqE9YOHmIVfsNo/edit?usp=sharing  
+1	Name	E-Mail	Organization
+2	Derald Dudley USDOT/BTS
+3	Kenneth Mitchell USACE
+4	Colby Harmon NOAA
+5	Rich Grady AppGeo
+6	Elizabeth McCartney USGS
+7	Ronald Vaughn FHWA
+8	Bob Pierce USGS
+9	Sharon Hawkins ARDOT
+10	Ed. Strocko BTS
+11	Jordan Riddle  USDOT BTS
+12	Raquel Wright FRA
+13	Mark Sarmiento  FHWA
+14	Anders Longthorne  NHTSA
+15	David Cackowski Census Bureau
 
 5.	Presentations  
 5.1.	Automatic Identification System (AIS)
@@ -31,7 +46,7 @@ Dr. Ned Mitchell is a research civil engineer with the Coastal and Hydraulics La
 His research focuses on development of decision-support tools and performance metrics for the Corps' Civil Works mission area, 
 notably with regards to the U.S. marine transportation system.  He also serves as Director of the ERDC Dredging Innovations Group (DIG), 
 overseeing research and development of new dredging technologies and best-management practices for the Corps' Navigation business line.    He received his PhD in civil engineering from Vanderbilt University in 2009.
-[link]()   
+[Presentation USACE-AIS](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170915_USACE-AIS.pdf)     
 5.2.	Electronic Navigational Charts  
 Colby Harmon  
 Cartographer / Project Manager  
@@ -41,7 +56,7 @@ experience as a cartographer with NOAA and the National Geospatial-Intelligence 
 a 100 page "Legend" describing the symbology used on all US nautical charts.  Colby is a member of the International Hydrographic 
 Organization's Nautical Cartography Working Group and the former chair of the IHO working group that developed the symbology used to 
 display ENC data in navigational systems.   
-[link]()   
+[Presentation ENC](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/02/tsc_pres_20170915_ENC.pptx)     
 
 6.	TSC Updates   
 6.1.	US Road Network - Minimum Content Guideline (USRN – MCG) Update   
