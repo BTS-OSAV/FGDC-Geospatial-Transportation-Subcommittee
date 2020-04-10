@@ -20,21 +20,31 @@ Please take a moment to review the [agenda](https://docs.google.com/document/d/1
 Each quarterly GTS meeting is dedicated to heightening awareness among the geospatial-transportation community. Meetings are an opportunity for members and partners to highlight their activities, review the progress of GTS working groups, and discuss GTS initiatives.
 
 Committee members, partners, and friends may join meetings via the GTS webinar site.
-Audio access is possible by calling (515) 739-1285, 286074#.
- 
-**2020 Minutes**    
-&nbsp; &nbsp; [April-May 2020 GTS Meeting Agenda](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/April%2030,%202020/readme.md)   
-&nbsp; &nbsp; [2020.02.25 GTS Meeting Minutes](https://docs.google.com/document/d/1XZMEt-K7MmBNaO3TIROTenlhVnNY6mCXiwIpzfnexQE)
+Audio access is possible by calling (515) 739-1285, 286074#.   
+   
+     
+### Geospatial Transportation Subcommittee (GTS) Meeting Minutes
 
-**2019 Minutes**   
-&nbsp; &nbsp; [2019.02.06 Minutes](https://docs.google.com/document/d/1XWPKGA7W-Vy_YTFU4ga3rzDOb8DpsPL405bWnMPtcW4/edit)   
-&nbsp; &nbsp; [2019.02.06 Presentation: FGDC TSC Quarterly Mtg v2 Ron Vaughn](https://drive.google.com/drive/folders/1Z9rGgAb50fJgZaSNCnGN58OdJ5CcdrdG)   
-&nbsp; &nbsp; [2019.04.25 GIS-T Special Interest Group](https://communities.geoplatform.gov/ngda-transportation/wp-content/uploads/2019/06/2019_april_gis-t_sig.pdf)   
+#### 2020   
+[April 30, 2020 Meeting Agenda (tentative)](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/April%2030%2C%202020)    
+[February 25, 2020 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/February%2025,%202020/readme.md)   
 
-**2018 Minutes**   
-[**2018 Minutes on GeoPlatform**](https://communities.geoplatform.gov/ngda-transportation/transportation-subcommittee/2019-meetings-of-the-transportation-subcommittee/)   
-&nbsp; &nbsp; [2018.08.02 Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/August%202,%202018/readme.md)   
-&nbsp; &nbsp; [next]()   
+#### 2019   
+[April 25, 2019 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/Meetings/April%2025%2C%202019)   
+[February 6, 2019 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/February%206%2C%202019)   
+
+#### 2018    
+[October 17, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/October%2017%2C%202018)     
+[August 2, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/August%202%2C%202018)     
+[April 18, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/April%2018%2C%202018)   
+[March 20, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/March%2020%2C%202018)   
+[January 15, 2018 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/January%2015%2C%202018)   
+
+#### 2017   
+[November 15, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/November%2015%2C%202017)  
+[September 15, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/September%2015%2C%202017)   
+[July 19, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/July%2019%2C%202017)   
+[March 24, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/March%2024%2C%202017)   
 
 **Working Groups under the Geospatial Transportation Subcommittee**       
 &nbsp; &nbsp; [Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
