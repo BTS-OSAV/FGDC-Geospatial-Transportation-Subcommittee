@@ -22,12 +22,14 @@
 [March 24, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/March%2024%2C%202017)   
 
 ***********************************       
-### Other Working Group Meeting Minutes   
-      
-[Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
-Passenger Travel   
-Intercity Bus   
-[US Road Specification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/Road%20Specifications)         
-Road Classification  
-Federal Trails Data   
-[Work Zone Data](https://github.com/usdot-jpo-ode/jpo-wzdx)   
+### Working Groups under the Geospatial Transportation Subcommittee   
+            
+&nbsp; &nbsp; [Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
+&nbsp; &nbsp; [Passenger Travel](https://communities.geoplatform.gov/ngda-transportation/passenger-travel-working-group/)      
+&nbsp; &nbsp; [Intercity Bus](https://communities.geoplatform.gov/ngda-transportation/intercity-bus-working-group/)   
+&nbsp; &nbsp; [US Road Specification on GitHub](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/Road%20Specifications)    
+&nbsp; &nbsp; [US Road Specification on GeoPlatform](https://communities.geoplatform.gov/ngda-transportation/u-s-road-specification/)   
+&nbsp; &nbsp; [Road Classification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/blob/master/readme.md) &nbsp; &nbsp;*Coming soon!*   
+&nbsp; &nbsp; [Federal Trails Data](https://communities.geoplatform.gov/ngda-transportation/ndt-wg/)    
+&nbsp; &nbsp; [Work Zone Data](https://github.com/usdot-jpo-ode/jpo-wzdx)   
+  
