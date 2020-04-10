@@ -51,11 +51,11 @@ Audio access is possible by calling (515) 739-1285, 286074#.
 **Working Groups under the Geospatial Transportation Subcommittee**       
 &nbsp; &nbsp; [Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
 &nbsp; &nbsp; [Passenger Travel](https://communities.geoplatform.gov/ngda-transportation/passenger-travel-working-group/)      
-&nbsp; &nbsp; Intercity Bus   
+&nbsp; &nbsp; [Intercity Bus](https://communities.geoplatform.gov/ngda-transportation/intercity-bus-working-group/)   
 &nbsp; &nbsp; [US Road Specification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/Road%20Specifications) 
 &nbsp; &nbsp; [US Road Specification on GeoPlatform](https://communities.geoplatform.gov/ngda-transportation/u-s-road-specification/)   
-&nbsp; &nbsp; Road Classification  
-&nbsp; &nbsp; Federal Trails Data   
+&nbsp; &nbsp; [Road Classification]() &nbsp; &nbsp;**coming** 
+&nbsp; &nbsp; [Federal Trails Data](https://communities.geoplatform.gov/ngda-transportation/ndt-wg/)    
 &nbsp; &nbsp; [Work Zone Data](https://github.com/usdot-jpo-ode/jpo-wzdx)   
   
 
