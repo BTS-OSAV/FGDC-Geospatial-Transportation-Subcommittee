@@ -37,13 +37,11 @@ Audio: 1.877.336.1839, 5908272
 5. Charter Update   
 The updated charter has been cleared by the USDOT Office of General Council. We will vote to
 forward it for FGDC review at April 11th meeting. This is your last chance to provide input.   
-https://docs.google.com/document/d/1DOvV9blcy7b7QPWMVx98JC1mpoIDeRkfob3iHMlYu3o/
-edit?usp=sharing   
+https://docs.google.com/document/d/1DOvV9blcy7b7QPWMVx98JC1mpoIDeRkfob3iHMlYu3o/edit?usp=sharing   
 
 6. US Road Network Specification - Working Group (WG)     
 6.1. Latest Meeting Notes:
-https://docs.google.com/document/d/13vdV4BWZVu36vRd60_fMnfsdBgHDWKt-jyWKZ
-xvM8Xg/edit?usp=sharing   
+https://docs.google.com/document/d/13vdV4BWZVu36vRd60_fMnfsdBgHDWKt-jyWKZxvM8Xg/edit?usp=sharing   
 6.2. Please note the name change from US Road Network - Minimum Content Guideline
 (USRN-MCG) to US Road Network Specification (USRNS).   
 Why: The term specification more accurately describes what we building and instills
@@ -51,8 +49,7 @@ more confidence than the term guideline.
 6.3. We propose to adapt the Canadian National Road Network   
 6.4. Benefits of Adaptation  
 6.4.1. It meets the requirements defined by this working group.   
-https://docs.google.com/spreadsheets/d/13IibMHU6YzA7K2FpP0GwxUA7fGFu1Fju_5t
-M6C7PWC8/edit?usp=sharing   
+https://docs.google.com/spreadsheets/d/13IibMHU6YzA7K2FpP0GwxUA7fGFu1Fju_5tM6C7PWC8/edit?usp=sharing   
 6.4.2. It quickly advances the efforts of this working group by relying on accepted
 standards. We are not reinventing the wheel; we’re modifying it to meet our
 needs.   
