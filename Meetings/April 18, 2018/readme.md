@@ -8,7 +8,7 @@
 Join us by webinar: https://connectdot.connectsolutions.com/fgdc_tsc`   
 Audio: (515) 739-1285, 286074#   
 
-3. Attendance   
+3. **Attendance**   
 1 ID &nbsp; &nbsp; &nbsp; Name &nbsp; &nbsp; &nbsp; Organization     
 2 Derald Dudley  USDOT/BTS   
 3 Ronald Vaughn  USDOT/FHWA   
