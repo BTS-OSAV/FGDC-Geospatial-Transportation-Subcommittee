@@ -18,7 +18,7 @@
 #### 2017   
 [November 15, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/November%2015%2C%202017)  
 [September 15, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/September%2015%2C%202017)   
-
+[July 19, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/July%2019%2C%202017)
 
 
 ***********************************       
