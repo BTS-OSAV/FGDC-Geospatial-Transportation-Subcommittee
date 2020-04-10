@@ -3,7 +3,8 @@
 **The Geospatial Transportation Subcommittee (GTC) enhances the Transportation Theme of the National Spatial Data Infrastructure by facilitating partnerships, coordinating efforts, and heightening awareness among the geospatial-transportation community. The committee promotes best practices and develops transportation standards to improve data quality, accessibility, exchange, and interoperability. Ultimately, the TSC cultivates a greater understanding of the American transportation system by providing accurate and timely information to American decision makers.**   
 
 **Our Last Meeting**   
-was on February 25th at 2:30 PM Eastern Time. Our next meeting is scheduled for April. Audio access is possible by calling (515) 606-5187, 286074#.
+was on February 25th at 2:30 PM Eastern Time. Our next meeting is tentatively scheduled for April 30th.    
+Audio access is possible by calling (515) 606-5187, 286074#.   
 
 Please take a moment to review the [agenda](https://docs.google.com/document/d/1ti4CfurvPi_wFoi281ywiDz9n0AYsrmR/edit) and comment if you wish to add or expand on a topic. All are welcome. Please contact derald.dudley@dot.gov to be added to the invitation.
 
@@ -45,7 +46,8 @@ Audio access is possible by calling (515) 739-1285, 286074#.
 [September 15, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/September%2015%2C%202017)   
 [July 19, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/July%2019%2C%202017)   
 [March 24, 2017 Meeting Minutes](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/March%2024%2C%202017)   
-
+   
+   
 **Working Groups under the Geospatial Transportation Subcommittee**       
 &nbsp; &nbsp; [Federal Land Roads](https://communities.geoplatform.gov/ngda-transportation/federal-lands-roads-working-group/)   
 &nbsp; &nbsp; Passenger Travel   
