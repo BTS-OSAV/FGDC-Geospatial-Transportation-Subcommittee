@@ -29,7 +29,7 @@
 &nbsp; &nbsp; [Intercity Bus](https://communities.geoplatform.gov/ngda-transportation/intercity-bus-working-group/)   
 &nbsp; &nbsp; [US Road Specification on GitHub](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings/Road%20Specifications)    
 &nbsp; &nbsp; [US Road Specification on GeoPlatform](https://communities.geoplatform.gov/ngda-transportation/u-s-road-specification/)   
-&nbsp; &nbsp; [Road Classification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee) &nbsp; &nbsp;*Coming soon!*   
+&nbsp; &nbsp; [Road Classification](https://github.com/BTS-OSAV/FGDC-Geospatial-Transportation-Subcommittee/tree/master/Meetings) &nbsp; &nbsp;*Coming soon!*   
 &nbsp; &nbsp; [Federal Trails Data](https://communities.geoplatform.gov/ngda-transportation/ndt-wg/)    
 &nbsp; &nbsp; [Work Zone Data](https://github.com/usdot-jpo-ode/jpo-wzdx)   
   
