@@ -4,7 +4,7 @@
 1.  What problem are we trying to solve?   
 Electronic ticketing is a challenge for interlined bus companies because it is not fully implemented; It results in an inconsistent user experience and works for GLI but the interlined companies have difficulty implementing the system.   
 GLI website acts as broker for all interlined companies.  
-A seat reserved on GLI has to hold a set on a different company.  
+A seat reserved on GLI has to hold a seat on a different company.  
 Real time capacity management.  
 A no show needs to show a free seat immediately.  
 Has to benefit the entire industry or at least NBTA.  
