@@ -1,5 +1,5 @@
 
-## Charter for the FGDC Road Specification Working Group  
+## Charter for the FGDC United States Road Specification Working Group  
 
 #### I. Purpose   
 
