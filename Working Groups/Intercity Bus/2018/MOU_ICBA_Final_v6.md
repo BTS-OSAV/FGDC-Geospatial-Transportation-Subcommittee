@@ -16,25 +16,25 @@ This MOU shall become effective on the date the Intercity Bus Atlas Registration
 
 **GRANTS AND LIMITATIONS OF AUTHORITY**  
 The intercity bus operator authorizes BTS to:  
-a) collect submitter’s data at least once, but no more than four times per year; and  
-b) attribute the data to submitter by name.  
+&nbsp; &nbsp;a) collect submitter’s data at least once, but no more than four times per year; and  
+&nbsp; &nbsp;b) attribute the data to submitter by name.  
 
 By submitting the requested information, the intercity bus operator further grants to BTS a license to such data under terms and provisions of the Creative Commons Attribution – Non-commercial 4.0 International (CC-BY-NC 4.0) license, which is incorporated herein.  Such license may be viewed at:  
 https://creativecommons.org/licenses/by-nc/4.0/legalcode  
 However, notwithstanding anything to the contrary in the foregoing, the license referred to in this paragraph shall:  
-c) not permit BTS to make substantive material alterations to the data submitted by Greyhound;  
-d) terminate in its entirety upon the termination of this MOU.  
+&nbsp; &nbsp;c) not permit BTS to make substantive material alterations to the data submitted by Greyhound;  
+&nbsp; &nbsp;d) terminate in its entirety upon the termination of this MOU.  
 
 BTS further agrees that it shall:  
-e) update a submitter’s data after receiving a written update request (emails are preferred).  
--1- updates will only take place if more than 10% of the records have been changed.  
--2- the update request is more than 45 days before the next scheduled collection date.  
--3- please send update requests to: NICBA@dot.com.    
-f) not use the data for any commercial purpose;   
-g) include on its National Intercity Bus Atlas webpage and its National Transportation Atlas Database website the following notices:   
--1- the data is not intended for trip planning, scheduling, navigation, or any real-time or near real-time use by passengers, transportation operators, service providers, or transportation planners;   
--2- using the data for research, analysis, and planning is permitted; and   
--3- all other reuses of the data are prohibited.    
+&nbsp; &nbsp;e) update a submitter’s data after receiving a written update request (emails are preferred).  
+&nbsp; &nbsp;&nbsp; &nbsp;-1- updates will only take place if more than 10% of the records have been changed.  
+&nbsp; &nbsp;&nbsp; &nbsp;-2- the update request is more than 45 days before the next scheduled collection date.  
+&nbsp; &nbsp;&nbsp; &nbsp;-3- please send update requests to: NICBA@dot.com.    
+&nbsp; &nbsp;f) not use the data for any commercial purpose;   
+&nbsp; &nbsp;g) include on its National Intercity Bus Atlas webpage and its National Transportation Atlas Database website the following notices:   
+&nbsp; &nbsp;&nbsp; &nbsp;-1- the data is not intended for trip planning, scheduling, navigation, or any real-time or near real-time use by passengers, transportation operators, service providers, or transportation planners;   
+&nbsp; &nbsp;&nbsp; &nbsp;-2- using the data for research, analysis, and planning is permitted; and   
+&nbsp; &nbsp;&nbsp; &nbsp;-3- all other reuses of the data are prohibited.    
 
 **LIABILITY**  
 BTS expressly disclaims all liability for the unauthorized use of or misuse of any data collected as a part of this effort by third parties. Further, BTS does not guarantee the real-time or near real-time accuracy or quality of the data as route service information, bus stop location information and other data collected may change over time.  
@@ -46,10 +46,10 @@ Despite termination, the BTS retains the rights to the collected data related to
 
 **INTERCITY BUS ATLAS REGISTRATION**  
 To authorize the collection of scheduled service data relevant to submitter’s bus operations, please provide the following information to NICBA@dot.gov:  
--1- Company Name;  
--2- Company Point of Contact Name (Last, First);  
--3- Point of Contact E-mail Address;  
--4- Point of Contact Telephone Number; and  
--5- If the submitter or an authoritative source provides GTFS data relevant to submitter’s intercity bus operations, please provide the URL from which it can be downloaded.  
+&nbsp; &nbsp;&nbsp; &nbsp;-1- Company Name;  
+&nbsp; &nbsp;&nbsp; &nbsp;-2- Company Point of Contact Name (Last, First);  
+&nbsp; &nbsp;&nbsp; &nbsp;-3- Point of Contact E-mail Address;  
+&nbsp; &nbsp;&nbsp; &nbsp;-4- Point of Contact Telephone Number; and  
+&nbsp; &nbsp;&nbsp; &nbsp;-5- If the submitter or an authoritative source provides GTFS data relevant to submitter’s intercity bus operations, please provide the URL from which it can be downloaded.  
 
 For any clarification, please contact NICBA@dot.gov.  
