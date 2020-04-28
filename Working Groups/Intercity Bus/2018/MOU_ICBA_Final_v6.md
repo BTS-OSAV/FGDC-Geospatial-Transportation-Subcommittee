@@ -46,12 +46,10 @@ Despite termination, the BTS retains the rights to the collected data related to
 
 **INTERCITY BUS ATLAS REGISTRATION**  
 To authorize the collection of scheduled service data relevant to submitter’s bus operations, please provide the following information to NICBA@dot.gov:  
-Company Name;  
-Company Point of Contact Name (Last, First);  
-Point of Contact E-mail Address;  
-Point of Contact Telephone Number; and  
-If the submitter or an authoritative source provides GTFS data relevant to submitter’s intercity bus operations, please provide the URL from which it can be downloaded.  
+-1- Company Name;  
+-2- Company Point of Contact Name (Last, First);  
+-3- Point of Contact E-mail Address;  
+-4- Point of Contact Telephone Number; and  
+-5- If the submitter or an authoritative source provides GTFS data relevant to submitter’s intercity bus operations, please provide the URL from which it can be downloaded.  
 
 For any clarification, please contact NICBA@dot.gov.  
-Intercity Bus Atlas  
-Memorandum of Understanding  
