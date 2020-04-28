@@ -29,12 +29,12 @@ BTS further agrees that it shall:
 e) update a submitter’s data after receiving a written update request (emails are preferred).  
 -1- updates will only take place if more than 10% of the records have been changed.  
 -2- the update request is more than 45 days before the next scheduled collection date.  
--3- please send update requests to: NICBA@dot.com.   
-f) not use the data for any commercial purpose; 
-g) include on its National Intercity Bus Atlas webpage and its National Transportation Atlas Database website the following notices:
--1- the data is not intended for trip planning, scheduling, navigation, or any real-time or near real-time use by passengers, transportation operators, service providers, or transportation planners;  
--2- using the data for research, analysis, and planning is permitted; and  
--3- all other reuses of the data are prohibited.  
+-3- please send update requests to: NICBA@dot.com.    
+f) not use the data for any commercial purpose;   
+g) include on its National Intercity Bus Atlas webpage and its National Transportation Atlas Database website the following notices:   
+-1- the data is not intended for trip planning, scheduling, navigation, or any real-time or near real-time use by passengers, transportation operators, service providers, or transportation planners;   
+-2- using the data for research, analysis, and planning is permitted; and   
+-3- all other reuses of the data are prohibited.    
 
 **LIABILITY**  
 BTS expressly disclaims all liability for the unauthorized use of or misuse of any data collected as a part of this effort by third parties. Further, BTS does not guarantee the real-time or near real-time accuracy or quality of the data as route service information, bus stop location information and other data collected may change over time.  
