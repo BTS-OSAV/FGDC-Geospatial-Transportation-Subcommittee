@@ -18,7 +18,7 @@ Unnecessarily expending resources on ticketing management.  Could be better used
 3.  How does it negatively impact passenger travel?  
 Lessens user experience - frustrating for passengers…  
 Should be seamless network  
-Improve access  
+**Improve access**   
 
 4.  BTS would like to start a conversation about passenger travel statistics.  
 
