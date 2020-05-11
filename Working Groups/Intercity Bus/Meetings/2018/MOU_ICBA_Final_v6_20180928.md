@@ -20,7 +20,8 @@ The intercity bus operator authorizes BTS to:
 &nbsp; &nbsp;b) attribute the data to submitter by name.  
 
 By submitting the requested information, the intercity bus operator further grants to BTS a license to such data under terms and provisions of the Creative Commons Attribution – Non-commercial 4.0 International (CC-BY-NC 4.0) license, which is incorporated herein.  Such license may be viewed at:  
-https://creativecommons.org/licenses/by-nc/4.0/legalcode  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+                       https://creativecommons.org/licenses/by-nc/4.0/legalcode  
 However, notwithstanding anything to the contrary in the foregoing, the license referred to in this paragraph shall:  
 &nbsp; &nbsp;c) not permit BTS to make substantive material alterations to the data submitted by Greyhound;  
 &nbsp; &nbsp;d) terminate in its entirety upon the termination of this MOU.  
